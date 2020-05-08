@@ -2,7 +2,7 @@
 title: _Index
 date: 2020-05-08T22:06:37+09:00
 lastmod: 2020-05-08T22:06:37+09:00
-draft: true
+draft: false
 ---
 
 Cut out summary from your post content here.

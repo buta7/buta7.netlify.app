@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://buta7.netlify.app/posts/2020/05/boasdf/</loc>
-    <lastmod>2020-05-08T22:13:11+09:00</lastmod>
+    <loc>http://buta7.netlify.app/about/</loc>
+    <lastmod>2020-05-08T23:05:46+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://buta7.netlify.app/</loc>
+    <lastmod>2020-05-08T23:05:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/about/desc/</loc>
+    <lastmod>2020-05-08T23:05:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/posts/2020/05/boasdf/</loc>
     <lastmod>2020-05-08T22:13:11+09:00</lastmod>
   </url>
   
@@ -60,6 +70,16 @@
   <url>
     <loc>http://buta7.netlify.app/posts/2020/05/hage/</loc>
     <lastmod>2020-05-08T22:08:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/page/about/desc/</loc>
+    <lastmod>2020-05-08T22:06:37+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/page/</loc>
+    <lastmod>2020-05-08T22:06:37+09:00</lastmod>
   </url>
   
   <url>
