@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>buta7@com</copyright>
-    <lastBuildDate>Fri, 08 May 2020 22:08:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 22:13:11 +0900</lastBuildDate>
     
 	<atom:link href="http://buta7.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>tag1</title>
       <link>http://buta7.netlify.app/tags/tag1/</link>
-      <pubDate>Fri, 08 May 2020 22:08:06 +0900</pubDate>
+      <pubDate>Fri, 08 May 2020 22:13:11 +0900</pubDate>
       
       <guid>http://buta7.netlify.app/tags/tag1/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>tag2</title>
       <link>http://buta7.netlify.app/tags/tag2/</link>
-      <pubDate>Fri, 08 May 2020 22:08:06 +0900</pubDate>
+      <pubDate>Fri, 08 May 2020 22:13:11 +0900</pubDate>
       
       <guid>http://buta7.netlify.app/tags/tag2/</guid>
       <description></description>

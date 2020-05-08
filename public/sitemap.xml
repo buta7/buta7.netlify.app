@@ -3,38 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://buta7.netlify.app/posts/2020/05/boasdf/</loc>
+    <lastmod>2020-05-08T22:13:11+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://buta7.netlify.app/</loc>
-    <lastmod>2020-05-08T22:08:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://buta7.netlify.app/categories/</loc>
-    <lastmod>2020-05-08T22:08:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://buta7.netlify.app/categories/category1/</loc>
-    <lastmod>2020-05-08T22:08:06+09:00</lastmod>
+    <lastmod>2020-05-08T22:13:11+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://buta7.netlify.app/posts/</loc>
-    <lastmod>2020-05-08T22:08:06+09:00</lastmod>
+    <lastmod>2020-05-08T22:13:11+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://buta7.netlify.app/tags/tag1/</loc>
-    <lastmod>2020-05-08T22:08:06+09:00</lastmod>
+    <lastmod>2020-05-08T22:13:11+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://buta7.netlify.app/tags/tag2/</loc>
-    <lastmod>2020-05-08T22:08:06+09:00</lastmod>
+    <lastmod>2020-05-08T22:13:11+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://buta7.netlify.app/tags/</loc>
-    <lastmod>2020-05-08T22:08:06+09:00</lastmod>
+    <lastmod>2020-05-08T22:13:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/categories/</loc>
+    <lastmod>2020-05-08T22:13:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/categories/category1/</loc>
+    <lastmod>2020-05-08T22:13:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/posts/2020/05/emb/</loc>
+    <lastmod>2020-05-08T22:13:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/posts/2020/05/boot/</loc>
+    <lastmod>2020-05-08T22:12:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buta7.netlify.app/posts/2020/05/chabin/</loc>
+    <lastmod>2020-05-08T22:12:42+09:00</lastmod>
   </url>
   
   <url>

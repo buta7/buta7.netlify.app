@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>buta7@com</copyright>
-    <lastBuildDate>Fri, 08 May 2020 22:08:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 22:13:11 +0900</lastBuildDate>
     
 	<atom:link href="http://buta7.netlify.app/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Boasdf</title>
+      <link>http://buta7.netlify.app/posts/2020/05/boasdf/</link>
+      <pubDate>Fri, 08 May 2020 22:13:11 +0900</pubDate>
+      
+      <guid>http://buta7.netlify.app/posts/2020/05/boasdf/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emb</title>
+      <link>http://buta7.netlify.app/posts/2020/05/emb/</link>
+      <pubDate>Fri, 08 May 2020 22:13:06 +0900</pubDate>
+      
+      <guid>http://buta7.netlify.app/posts/2020/05/emb/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>はげちゃびん</title>
