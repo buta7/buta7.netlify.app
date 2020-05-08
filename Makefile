@@ -28,7 +28,7 @@ deploy: ## Deploy on Github Pages
 
 clean: ## Clean old files
 	@hugo --cleanDestinationDir
-	rm -fr docs/*
+	rm -fr public/*
 
 help: ## Print this help
 	@echo 'Usage: make [target]'

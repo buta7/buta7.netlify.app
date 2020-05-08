@@ -3,7 +3,7 @@ languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "Buta7 Web Site by Hugo"
 theme = "hugo-theme-dream"
-publishDir = "docs"
+#publishDir = "docs"
 
 copyright = "buta7@com"
 
