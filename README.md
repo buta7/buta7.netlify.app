@@ -1,5 +1,7 @@
 # README
 
+**hugo-theme-dream**はメディアファイル(css/js)を/から参照するのでnetlifyやgithub pagesのproject向き(github pagesのuserはだめ)
+
 ## セットアップ
 
 サイト作成
