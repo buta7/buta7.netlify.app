@@ -1,0 +1,39 @@
+baseURL = "http://buta7.netlify.app/"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+title = "Buta7 Web Site by Hugo"
+theme = "hugo-theme-dream"
+publishDir = "docs"
+
+copyright = "buta7@com"
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "buta7"
+  # description = ""
+  avatar = "/img/avatar.jpg"
+  motto = "Motto"
+
+  #email = "g1enyy0ung@gmail.com"
+  github = "https://github.com/buta7"
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404Button = true

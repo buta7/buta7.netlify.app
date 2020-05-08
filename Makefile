@@ -1,21 +1,37 @@
-all: status
+MAKEFLAGS += --warn-undefined-variables
+SHELL := /bin/bash
+.SHELLFLAGS := -eu -o pipefail -c
+.DEFAULT_GOAL := run
 
-deploy:
-	./deploy.sh
+# all targets are phony
+.PHONY: $(shell egrep -o ^[a-zA-Z_-]+: $(MAKEFILE_LIST) | sed 's/://')
 
-status:
-	git status
+HOST=http://localhost
+PORT=1313
 
-add:
-	git add .
+# .env
+ifneq ("$(wildcard ./.env)","")
+  include ./.env
+endif
 
-commit: add
-	git commit -m 'modify'
+run: ## Run server
+	@hugo server  --bind="0.0.0.0" --baseUrl="${HOST}" --port=${PORT} --buildDrafts --watch
 
-pull:
-	git pull
+run-without-draft: ## Run server without draft posts
+	@hugo server --theme=beautifulehugo --watch
 
-push:
-	git push -u origin master
+build: ## Build static html
+	@hugo
 
-commit-push: commit push
+deploy: ## Deploy on Github Pages
+	@sh deploy.sh
+
+clean: ## Clean old files
+	@hugo --cleanDestinationDir
+	rm -fr docs/*
+
+help: ## Print this help
+	@echo 'Usage: make [target]'
+	@echo ''
+	@echo 'Targets:'
+	@awk 'BEGIN {FS = ":.*?## "} /^[a-zA-Z0-9_-]+:.*?## / {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
