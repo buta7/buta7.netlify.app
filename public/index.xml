@@ -2,86 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buta7 Web Site by Hugo</title>
-    <link>http://buta7.netlify.app/</link>
+    <link>https://buta7.netlify.app/</link>
     <description>Recent content on Buta7 Web Site by Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>buta7@com</copyright>
     <lastBuildDate>Fri, 08 May 2020 23:05:46 +0900</lastBuildDate>
     
-	<atom:link href="http://buta7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://buta7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Desc</title>
-      <link>http://buta7.netlify.app/about/desc/</link>
+      <title>このサイトについて</title>
+      <link>https://buta7.netlify.app/about/desc/</link>
       <pubDate>Fri, 08 May 2020 23:05:46 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/about/desc/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+      <guid>https://buta7.netlify.app/about/desc/</guid>
+      <description>&lt;p&gt;これは私の日常生活を綴ったブログです。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Boasdf</title>
-      <link>http://buta7.netlify.app/posts/2020/05/boasdf/</link>
+      <link>https://buta7.netlify.app/posts/2020/05/boasdf/</link>
       <pubDate>Fri, 08 May 2020 22:13:11 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/posts/2020/05/boasdf/</guid>
+      <guid>https://buta7.netlify.app/posts/2020/05/boasdf/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emb</title>
-      <link>http://buta7.netlify.app/posts/2020/05/emb/</link>
+      <link>https://buta7.netlify.app/posts/2020/05/emb/</link>
       <pubDate>Fri, 08 May 2020 22:13:06 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/posts/2020/05/emb/</guid>
+      <guid>https://buta7.netlify.app/posts/2020/05/emb/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Boot</title>
-      <link>http://buta7.netlify.app/posts/2020/05/boot/</link>
+      <link>https://buta7.netlify.app/posts/2020/05/boot/</link>
       <pubDate>Fri, 08 May 2020 22:12:46 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/posts/2020/05/boot/</guid>
+      <guid>https://buta7.netlify.app/posts/2020/05/boot/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Chabin</title>
-      <link>http://buta7.netlify.app/posts/2020/05/chabin/</link>
+      <link>https://buta7.netlify.app/posts/2020/05/chabin/</link>
       <pubDate>Fri, 08 May 2020 22:12:42 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/posts/2020/05/chabin/</guid>
+      <guid>https://buta7.netlify.app/posts/2020/05/chabin/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>はげちゃびん</title>
-      <link>http://buta7.netlify.app/posts/2020/05/hage/</link>
+      <link>https://buta7.netlify.app/posts/2020/05/hage/</link>
       <pubDate>Fri, 08 May 2020 22:08:06 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/posts/2020/05/hage/</guid>
+      <guid>https://buta7.netlify.app/posts/2020/05/hage/</guid>
       <description>&lt;p&gt;本当にそうかな&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>_Index</title>
-      <link>http://buta7.netlify.app/page/about/desc/</link>
-      <pubDate>Fri, 08 May 2020 22:06:37 +0900</pubDate>
-      
-      <guid>http://buta7.netlify.app/page/about/desc/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.
-Foo!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Helloworld</title>
-      <link>http://buta7.netlify.app/posts/2020/05/helloworld/</link>
+      <link>https://buta7.netlify.app/posts/2020/05/helloworld/</link>
       <pubDate>Fri, 08 May 2020 21:59:12 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/posts/2020/05/helloworld/</guid>
+      <guid>https://buta7.netlify.app/posts/2020/05/helloworld/</guid>
       <description>こんにちは</description>
     </item>
     

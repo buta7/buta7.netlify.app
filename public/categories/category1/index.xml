@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>category1 on Buta7 Web Site by Hugo</title>
-    <link>http://buta7.netlify.app/categories/category1/</link>
+    <link>https://buta7.netlify.app/categories/category1/</link>
     <description>Recent content in category1 on Buta7 Web Site by Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>buta7@com</copyright>
     <lastBuildDate>Fri, 08 May 2020 22:13:06 +0900</lastBuildDate>
     
-	<atom:link href="http://buta7.netlify.app/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://buta7.netlify.app/categories/category1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emb</title>
-      <link>http://buta7.netlify.app/posts/2020/05/emb/</link>
+      <link>https://buta7.netlify.app/posts/2020/05/emb/</link>
       <pubDate>Fri, 08 May 2020 22:13:06 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/posts/2020/05/emb/</guid>
+      <guid>https://buta7.netlify.app/posts/2020/05/emb/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>はげちゃびん</title>
-      <link>http://buta7.netlify.app/posts/2020/05/hage/</link>
+      <link>https://buta7.netlify.app/posts/2020/05/hage/</link>
       <pubDate>Fri, 08 May 2020 22:08:06 +0900</pubDate>
       
-      <guid>http://buta7.netlify.app/posts/2020/05/hage/</guid>
+      <guid>https://buta7.netlify.app/posts/2020/05/hage/</guid>
       <description>&lt;p&gt;本当にそうかな&lt;/p&gt;</description>
     </item>
     

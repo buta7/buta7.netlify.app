@@ -1,4 +1,4 @@
-baseURL = "http://buta7.netlify.app/"
+baseURL = "https://buta7.netlify.app/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "Buta7 Web Site by Hugo"
