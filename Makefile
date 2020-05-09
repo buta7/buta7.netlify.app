@@ -15,10 +15,10 @@ ifneq ("$(wildcard ./.env)","")
 endif
 
 run: ## Run server
-	@hugo server  --bind="0.0.0.0" --baseUrl="${HOST}" --port=${PORT} --buildDrafts --watch
+	@hugo server --bind="0.0.0.0" --baseUrl="${HOST}" --port=${PORT} --buildDrafts --watch
 
 run-without-draft: ## Run server without draft posts
-	@hugo server --theme=beautifulehugo --watch
+	@hugo server --watch
 
 build: ## Build static html
 	@hugo
