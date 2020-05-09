@@ -1,7 +1,7 @@
 baseURL = "https://buta7.netlify.app/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "Buta7 Web Site by Hugo"
+title = "Buta7 Blog"
 theme = "hugo-theme-dream"
 #publishDir = "docs"
 
