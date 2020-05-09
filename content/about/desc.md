@@ -1,12 +1,12 @@
 ---
-title: Desc
+title: このサイトについて
 date: 2020-05-08T23:05:46+09:00
 lastmod: 2020-05-08T23:05:46+09:00
 draft: false
 ---
 
-Cut out summary from your post content here.
+これは私の日常生活を綴ったブログです。
 
 <!--more-->
 
-The remaining content of your post.
+たぶん三日坊主です。
