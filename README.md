@@ -1,6 +1,10 @@
 # README
 
-**hugo-theme-dream**はメディアファイル(css/js)を/から参照するのでnetlifyやgithub pagesのproject向き(github pagesのuserはだめ)
+## 注意
+
+### hugo-theme-dream
+
+メディアファイル(css/js)を/から参照するのでnetlifyやgithub pagesのproject向き(github pagesのuserはだめ)
 
 ## セットアップ
 
