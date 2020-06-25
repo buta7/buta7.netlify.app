@@ -1,9 +1,8 @@
 baseURL = "https://buta7.netlify.app/"
-languageCode = "ja"
+languageCode = "en-us"
 defaultContentLanguage = "ja"
-title = "Buta7 Blog"
-theme = "hugo-theme-dream"
-#publishDir = "docs"
+title = "Music Buta7"
+theme = "dream"
 
 copyright = "buta7@com"
 
@@ -21,7 +20,7 @@ copyright = "buta7@com"
   author = "buta7"
   # description = ""
   avatar = "/img/avatar.jpg"
-  motto = "Motto"
+  motto = "Get the blues away"
 
   #email = "g1enyy0ung@gmail.com"
   github = "https://github.com/buta7"

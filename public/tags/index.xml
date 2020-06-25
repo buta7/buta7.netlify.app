@@ -1,32 +1,248 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Buta7 Web Site by Hugo</title>
+    <title>Tags on Music Buta7</title>
     <link>https://buta7.netlify.app/tags/</link>
-    <description>Recent content in Tags on Buta7 Web Site by Hugo</description>
+    <description>Recent content in Tags on Music Buta7</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>en-us</language>
     <copyright>buta7@com</copyright>
-    <lastBuildDate>Fri, 08 May 2020 22:13:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2011 23:00:29 +0900</lastBuildDate>
     
 	<atom:link href="https://buta7.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>tag1</title>
-      <link>https://buta7.netlify.app/tags/tag1/</link>
-      <pubDate>Fri, 08 May 2020 22:13:11 +0900</pubDate>
+      <title>てんすけ</title>
+      <link>https://buta7.netlify.app/tags/%E3%81%A6%E3%82%93%E3%81%99%E3%81%91/</link>
+      <pubDate>Sun, 17 Apr 2011 23:00:29 +0900</pubDate>
       
-      <guid>https://buta7.netlify.app/tags/tag1/</guid>
+      <guid>https://buta7.netlify.app/tags/%E3%81%A6%E3%82%93%E3%81%99%E3%81%91/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag2</title>
-      <link>https://buta7.netlify.app/tags/tag2/</link>
-      <pubDate>Fri, 08 May 2020 22:13:11 +0900</pubDate>
+      <title>Rock</title>
+      <link>https://buta7.netlify.app/tags/rock/</link>
+      <pubDate>Mon, 01 Jun 2009 21:48:13 +0900</pubDate>
       
-      <guid>https://buta7.netlify.app/tags/tag2/</guid>
+      <guid>https://buta7.netlify.app/tags/rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jazz</title>
+      <link>https://buta7.netlify.app/tags/jazz/</link>
+      <pubDate>Fri, 22 May 2009 23:26:21 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/jazz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>piano</title>
+      <link>https://buta7.netlify.app/tags/piano/</link>
+      <pubDate>Fri, 22 May 2009 23:26:21 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/piano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&amp;amp;W</title>
+      <link>https://buta7.netlify.app/tags/campw/</link>
+      <pubDate>Sat, 09 May 2009 21:56:08 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/campw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gram Parsons</title>
+      <link>https://buta7.netlify.app/tags/gram-parsons/</link>
+      <pubDate>Sat, 09 May 2009 21:56:08 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/gram-parsons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R&amp;amp;B</title>
+      <link>https://buta7.netlify.app/tags/rampb/</link>
+      <pubDate>Sun, 19 Apr 2009 22:40:12 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/rampb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vocal</title>
+      <link>https://buta7.netlify.app/tags/vocal/</link>
+      <pubDate>Mon, 13 Apr 2009 23:40:58 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/vocal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pops</title>
+      <link>https://buta7.netlify.app/tags/pops/</link>
+      <pubDate>Thu, 09 Apr 2009 23:10:21 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/pops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carmen McRae</title>
+      <link>https://buta7.netlify.app/tags/carmen-mcrae/</link>
+      <pubDate>Tue, 24 Mar 2009 23:41:43 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/carmen-mcrae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hampton Hawes</title>
+      <link>https://buta7.netlify.app/tags/hampton-hawes/</link>
+      <pubDate>Mon, 09 Mar 2009 23:45:33 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/hampton-hawes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Desmond</title>
+      <link>https://buta7.netlify.app/tags/paul-desmond/</link>
+      <pubDate>Mon, 02 Mar 2009 23:59:23 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/paul-desmond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horace Silver</title>
+      <link>https://buta7.netlify.app/tags/horace-silver/</link>
+      <pubDate>Fri, 13 Feb 2009 23:07:03 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/horace-silver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trumpet</title>
+      <link>https://buta7.netlify.app/tags/trumpet/</link>
+      <pubDate>Fri, 02 Jan 2009 00:10:22 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/trumpet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art Pepper</title>
+      <link>https://buta7.netlify.app/tags/art-pepper/</link>
+      <pubDate>Tue, 15 Jul 2008 22:48:35 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/art-pepper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hampton Haws</title>
+      <link>https://buta7.netlify.app/tags/hampton-haws/</link>
+      <pubDate>Tue, 15 Jul 2008 22:48:35 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/hampton-haws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Garland</title>
+      <link>https://buta7.netlify.app/tags/red-garland/</link>
+      <pubDate>Sun, 13 Jul 2008 13:07:44 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/red-garland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Vaughan</title>
+      <link>https://buta7.netlify.app/tags/sarah-vaughan/</link>
+      <pubDate>Thu, 08 Feb 2007 22:38:49 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/sarah-vaughan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonny Rollins</title>
+      <link>https://buta7.netlify.app/tags/sonny-rollins/</link>
+      <pubDate>Sat, 04 Feb 2006 13:58:22 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/sonny-rollins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bill Evans</title>
+      <link>https://buta7.netlify.app/tags/bill-evans/</link>
+      <pubDate>Sun, 27 Nov 2005 21:30:11 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/bill-evans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blues</title>
+      <link>https://buta7.netlify.app/tags/blues/</link>
+      <pubDate>Mon, 14 Nov 2005 23:22:09 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/blues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hadows</title>
+      <link>https://buta7.netlify.app/tags/hadows/</link>
+      <pubDate>Fri, 22 Jul 2005 19:38:36 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/hadows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tex Mex</title>
+      <link>https://buta7.netlify.app/tags/tex-mex/</link>
+      <pubDate>Sat, 21 May 2005 18:03:29 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/tex-mex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vosa Nova</title>
+      <link>https://buta7.netlify.app/tags/vosa-nova/</link>
+      <pubDate>Tue, 19 Apr 2005 17:44:21 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/vosa-nova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Coltrane</title>
+      <link>https://buta7.netlify.app/tags/john-coltrane/</link>
+      <pubDate>Fri, 10 Dec 2004 09:53:22 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/john-coltrane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miles Davis</title>
+      <link>https://buta7.netlify.app/tags/miles-davis/</link>
+      <pubDate>Fri, 02 Jul 2004 21:00:30 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/miles-davis/</guid>
       <description></description>
     </item>
     
