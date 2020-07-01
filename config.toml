@@ -1,14 +1,14 @@
 baseURL = "https://buta7.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "ja"
-title = "Music Buta7"
+title = "Nagoya Second Line"
 theme = "dream"
 
 copyright = "buta7@com"
 
 # googleAnalytics = ""
 
-# disqusShortname = ""
+disqusShortname = "higebobo"
 
 # enableRobotsTXT = true
 
@@ -17,8 +17,8 @@ copyright = "buta7@com"
   # backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
-  author = "buta7"
-  # description = ""
+  author = "higebobo"
+  description = ""
   avatar = "/img/avatar.jpg"
   motto = "Get the blues away"
 
@@ -28,7 +28,7 @@ copyright = "buta7@com"
   # codepen = ""
   # stackoverflow = ""
 
-  siteStartYear = 2020
+  siteStartYear = 2004
 
   # favicon = "/favicon.ico"
 
