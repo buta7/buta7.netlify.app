@@ -1,16 +1,18 @@
 baseURL = "https://buta7.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "ja"
+hasCJKLanguage = true
 title = "Nagoya Second Line"
 theme = "dream"
-
-copyright = "buta7@com"
+dateFormat = "Monday, Jan 2, 2006"
+copyright = "@buta7.com"
 
 # googleAnalytics = ""
 
 disqusShortname = "higebobo"
 
 # enableRobotsTXT = true
+
 
 [params]
   background = "black"
@@ -19,11 +21,13 @@ disqusShortname = "higebobo"
 
   author = "higebobo"
   description = ""
-  avatar = "/img/avatar.jpg"
-  motto = "Get the blues away"
+  #avatar = "/img/avatar.jpg"
+  avatar = "/images/sillywalk.png"
+  motto = "The Ministry of Silly Walks"
 
   #email = "g1enyy0ung@gmail.com"
-  github = "https://github.com/buta7"
+  twitter = "higebobo"
+  github = "buta7"
   # linkedin = ""
   # codepen = ""
   # stackoverflow = ""
@@ -36,3 +40,8 @@ disqusShortname = "higebobo"
   darkLinkColor = "darkseagreen"
   darkNav = true
   dark404Button = true
+
+[languages]
+  [languages.ja]
+  title = "名古屋セカンドライン・わっしょい"
+  dateFormat = "2006年1月2日"
