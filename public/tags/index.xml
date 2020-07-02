@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nagoya Second Line</title>
+    <title>Tags on 名古屋セカンドライン・わっしょい</title>
     <link>https://buta7.netlify.app/tags/</link>
-    <description>Recent content in Tags on Nagoya Second Line</description>
+    <description>Recent content in Tags on 名古屋セカンドライン・わっしょい</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>buta7@com</copyright>
+    <copyright>@buta7.com</copyright>
     <lastBuildDate>Sun, 17 Apr 2011 23:00:29 +0900</lastBuildDate>
     
 	<atom:link href="https://buta7.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -243,6 +243,24 @@
       <pubDate>Fri, 02 Jul 2004 21:00:30 +0900</pubDate>
       
       <guid>https://buta7.netlify.app/tags/miles-davis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RnB</title>
+      <link>https://buta7.netlify.app/tags/rnb/</link>
+      <pubDate>Fri, 02 Jul 2004 20:53:20 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/rnb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vibraphone</title>
+      <link>https://buta7.netlify.app/tags/vibraphone/</link>
+      <pubDate>Thu, 17 Jun 2004 20:37:38 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/tags/vibraphone/</guid>
       <description></description>
     </item>
     
