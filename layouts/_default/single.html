@@ -16,10 +16,13 @@
       <article style="margin-top: 2rem;">
         {{ if isset .Params "image" }}
           {{ if isset .Params "link" }}<a href="{{ .Params.link }}">{{ end }}
-        <img style="width: 360px; height: 360px; object-fit: cover;" src="{{ .Params.image }}" alt="{{ .Title }}" />
+        <img style="float: right;width: 360px; height: 360px; object-fit: scale-down;" src="{{ .Params.image }}" alt="{{ .Title }}" />
           {{ if isset .Params "link" }}</a>{{ end }}
         {{ end }}
+        <div style="margin: .75rem;">
         {{ .Content | emojify }}
+        </div>
+        <br style="clear: right">
       </article>
     </section>
 
