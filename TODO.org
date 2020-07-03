@@ -1,4 +1,5 @@
-** TODO サイトリンクカラー: orange
+** DONE サイトリンクカラー: orange
+   CLOSED: [2020-07-03 金 20:42]
 ** TODO バックグランド
 ** TODO プロフィールページ
 ** TODO 404.html
@@ -7,3 +8,5 @@
 ** TODO 検索
 ** DONE 続き実装
    CLOSED: [2020-07-03 金 16:25]
+** TODO social
+** TODO favicon.ico

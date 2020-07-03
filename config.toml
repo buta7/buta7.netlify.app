@@ -22,12 +22,10 @@ disqusShortname = "buta7-netlify-app"
   avatar = "/images/sillywalk.png"
   motto = "The Ministry of Silly Walks"
 
-  #email = "g1enyy0ung@gmail.com"
   twitter = "higebobo"
   github = "buta7"
-  # linkedin = ""
-  # codepen = ""
-  # stackoverflow = ""
+  gitlab = "buta7"
+  bitbucket = "bitbucket"
 
   siteStartYear = 2004
 
