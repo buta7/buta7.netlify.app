@@ -34,7 +34,7 @@ disqusShortname = "buta7-netlify-app"
   # favicon = "/favicon.ico"
 
   # dark mode
-  darkLinkColor = "darkseagreen"
+  darkLinkColor = "orange"
   darkNav = true
   dark404Button = true
 

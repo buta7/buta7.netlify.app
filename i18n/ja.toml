@@ -52,5 +52,5 @@ other = '次へ'
 [saveImage]
 other = "画像として保存"
 
-[dateFormat]
-other = "2006年1月1日"
+[readMore]
+other = "続きを読む"

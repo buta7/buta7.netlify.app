@@ -1,3 +1,9 @@
 ** TODO サイトリンクカラー: orange
 ** TODO バックグランド
 ** TODO プロフィールページ
+** TODO 404.html
+** DONE アーカイブ年月別
+   CLOSED: [2020-07-03 金 16:30]
+** TODO 検索
+** DONE 続き実装
+   CLOSED: [2020-07-03 金 16:25]
