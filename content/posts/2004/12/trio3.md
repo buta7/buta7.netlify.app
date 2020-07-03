@@ -1,10 +1,15 @@
 ---
-title: "The Trio Vol.3/Hampton Hawes"
+title: "The Trio Vol.3"
 slug: "trio3"
 date: "2004-12-13T16:07:20+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'piano']
+categories:
+  - jazz
+tags: 
+  - piano
+  - west coast jazz
+artists:
+  - Hampton Hawes
 image: https://m.media-amazon.com/images/I/71uqk5Q45sL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B000000YNC/
 ---

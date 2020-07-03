@@ -1,10 +1,15 @@
 ---
-title: "Sings/Chet Baker"
+title: "Sings"
 slug: "sings"
 date: "2004-12-27T01:02:49+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'trumpet', 'vocal']
+categories:
+  - jazz
+tags: 
+  - trumpet
+  - vocal
+artists:
+  - Chet Baker
 image: https://images-na.ssl-images-amazon.com/images/I/41XnW30QzDL._AC_SX425_.jpg
 link: https://www.amazon.co.jp/dp/B06W5KS4KQ/r
 ---

@@ -1,10 +1,15 @@
 ---
-title: "My Fair Lady/Shelly Manne"
+title: "My Fair Lady"
 slug: "my-fair-lady"
 date: "2004-12-11T10:12:47+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'piano']
+categories: 
+  - jazz
+tags: 
+  - piano
+artists:
+  - Andre Previn
+  - Shelly Manne
 image: https://m.media-amazon.com/images/I/815bZztB-dL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B000000YIN/
 ---

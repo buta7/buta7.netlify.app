@@ -1,10 +1,15 @@
 ---
-title: "Sweetheart of the Rodeo/Byrds"
+title: "Sweetheart of the Rodeo"
 slug: "sweetheart-of-the-rodeo"
 date: "2004-12-02T11:49:33+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Country', 'Gram Parsons', 'Rock']
+categories: 
+  - country
+  - rock
+#tags: 
+artists:
+  - Byrds
+  - Gram Parsons
 image: https://m.media-amazon.com/images/I/91qYWkdWWPL._AC_UL320_.jpg
 link: https://www.amazon.co.jp//dp/B000024J6R/
 ---

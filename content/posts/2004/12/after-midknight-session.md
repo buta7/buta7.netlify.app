@@ -1,10 +1,14 @@
 ---
-title: "After Midknight Session/Nat King Cole"
+title: "After Midknight Session"
 slug: "after-midknight-session"
 date: "2004-12-16T16:26:16+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'vocal']
+categories:
+  - jazz
+tags: 
+  - vocal
+artists:
+  - Nat King Cole
 image: https://m.media-amazon.com/images/I/41+prLRaawL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B01JT1LMQ6/
 ---

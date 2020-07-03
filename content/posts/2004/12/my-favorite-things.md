@@ -1,10 +1,14 @@
 ---
-title: "My Favorite Things/John Coltrane"
+title: "My Favorite Things/"
 slug: "my-favorite-things"
 date: "2004-12-09T21:47:54+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'John Coltrane']
+categories:
+  - jazz
+#tags: 
+artists:
+  - John Coltrane
+  - McCoy Tyner
 image: https://m.media-amazon.com/images/I/41N7VZB1N2L._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B000002I53/
 ---

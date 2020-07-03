@@ -3,8 +3,13 @@ title: "Osacr Peterson Plays Cole Porter"
 slug: "osacr-peterson-plays-cole-porter"
 date: "2004-12-23T21:37:33+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'piano']
+categories:
+  - jazz
+tags:
+  - piano
+  - Cole Porter
+artists:
+  - Osacr Peterson
 image: https://m.media-amazon.com/images/I/81BeMyDc8NL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B0034JKZAE/
 ---

@@ -3,31 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://buta7.netlify.app/about/</loc>
-    <lastmod>2020-05-08T23:05:46+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/about/desc/</loc>
-    <lastmod>2020-05-08T23:05:46+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/</loc>
-    <lastmod>2020-05-08T23:05:46+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/categories/</loc>
-    <lastmod>2011-04-23T09:09:05+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/categories/cd%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</loc>
-    <lastmod>2011-04-23T09:09:05+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/</loc>
     <lastmod>2011-04-23T09:09:05+09:00</lastmod>
   </url>
@@ -38,17 +13,12 @@
   </url>
   
   <url>
+    <loc>https://buta7.netlify.app/</loc>
+    <lastmod>2011-04-23T09:09:05+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://buta7.netlify.app/posts/2011/04/night_beat/</loc>
-    <lastmod>2011-04-17T23:00:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/</loc>
-    <lastmod>2011-04-17T23:00:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/%E3%81%A6%E3%82%93%E3%81%99%E3%81%91/</loc>
     <lastmod>2011-04-17T23:00:29+09:00</lastmod>
   </url>
   
@@ -58,33 +28,8 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/rock/</loc>
-    <lastmod>2009-06-01T21:48:13+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/jazz/</loc>
-    <lastmod>2009-05-22T23:26:21+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2009/05/king_size_/</loc>
     <lastmod>2009-05-22T23:26:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/piano/</loc>
-    <lastmod>2009-05-22T23:26:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/campw/</loc>
-    <lastmod>2009-05-09T21:56:08+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/gram-parsons/</loc>
-    <lastmod>2009-05-09T21:56:08+09:00</lastmod>
   </url>
   
   <url>
@@ -103,11 +48,6 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/rampb/</loc>
-    <lastmod>2009-04-19T22:40:12+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2009/04/the_gilded_place_of_sin_-_flying-burrito-brothers/</loc>
     <lastmod>2009-04-19T22:40:12+09:00</lastmod>
   </url>
@@ -120,16 +60,6 @@
   <url>
     <loc>https://buta7.netlify.app/posts/2009/04/songs_for_young_lovers/</loc>
     <lastmod>2009-04-13T23:40:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/vocal/</loc>
-    <lastmod>2009-04-13T23:40:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/pops/</loc>
-    <lastmod>2009-04-09T23:10:21+09:00</lastmod>
   </url>
   
   <url>
@@ -148,18 +78,8 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/carmen-mcrae/</loc>
-    <lastmod>2009-03-24T23:41:43+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2009/03/torchy/</loc>
     <lastmod>2009-03-21T22:44:35+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/hampton-hawes/</loc>
-    <lastmod>2009-03-09T23:45:33+09:00</lastmod>
   </url>
   
   <url>
@@ -174,11 +94,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/posts/2009/03/desmond_blue/</loc>
-    <lastmod>2009-03-02T23:59:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/paul-desmond/</loc>
     <lastmod>2009-03-02T23:59:23+09:00</lastmod>
   </url>
   
@@ -205,11 +120,6 @@
   <url>
     <loc>https://buta7.netlify.app/posts/2009/02/una_mas/</loc>
     <lastmod>2009-02-17T20:24:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/horace-silver/</loc>
-    <lastmod>2009-02-13T23:07:03+09:00</lastmod>
   </url>
   
   <url>
@@ -318,11 +228,6 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/trumpet/</loc>
-    <lastmod>2009-01-02T00:10:22+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2008/07/time_out/</loc>
     <lastmod>2008-07-27T13:24:50+09:00</lastmod>
   </url>
@@ -330,16 +235,6 @@
   <url>
     <loc>https://buta7.netlify.app/posts/2008/07/concert_by_the_sea/</loc>
     <lastmod>2008-07-24T00:59:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/art-pepper/</loc>
-    <lastmod>2008-07-15T22:48:35+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/hampton-haws/</loc>
-    <lastmod>2008-07-15T22:48:35+09:00</lastmod>
   </url>
   
   <url>
@@ -353,17 +248,7 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/red-garland/</loc>
-    <lastmod>2008-07-13T13:07:44+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2007/02/crazy_and_mixed_up/</loc>
-    <lastmod>2007-02-08T22:38:49+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/sarah-vaughan/</loc>
     <lastmod>2007-02-08T22:38:49+09:00</lastmod>
   </url>
   
@@ -413,11 +298,6 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/sonny-rollins/</loc>
-    <lastmod>2006-02-04T13:58:22+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2006/02/volume_2/</loc>
     <lastmod>2006-02-04T13:58:22+09:00</lastmod>
   </url>
@@ -428,52 +308,42 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/bill-evans/</loc>
-    <lastmod>2005-11-27T21:30:11+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2005/11/undercurrent/</loc>
     <lastmod>2005-11-27T21:30:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/11/the_magic_of_juju/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/11/magic-of-juju/</loc>
     <lastmod>2005-11-26T19:54:23+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/11/here_is_phineas/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/11/here-is-phineas/</loc>
     <lastmod>2005-11-25T19:27:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/11/something_cool/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/11/something-cool/</loc>
     <lastmod>2005-11-23T16:00:37+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/11/the_rumproller/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/11/rumproller/</loc>
     <lastmod>2005-11-18T20:16:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/11/chet_baker__crew/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/11/chet-baker-and-crew/</loc>
     <lastmod>2005-11-16T14:04:44+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/blues/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/11/rock-n-roll-gumbo/</loc>
     <lastmod>2005-11-14T23:22:09+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/11/rock_n_roll_gumbo/</loc>
-    <lastmod>2005-11-14T23:22:09+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/posts/2005/11/the_sound_of_sonny/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/11/sound-of-sonny/</loc>
     <lastmod>2005-11-12T18:51:13+09:00</lastmod>
   </url>
   
@@ -483,22 +353,17 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/11/the_bridge/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/11/bridge/</loc>
     <lastmod>2005-11-03T17:06:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/10/black_sabbath_vol4/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/10/black-sabbath4/</loc>
     <lastmod>2005-10-06T16:16:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/hadows/</loc>
-    <lastmod>2005-07-22T19:38:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/posts/2005/07/hadows_2005.7/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/07/hadows-2005-07/</loc>
     <lastmod>2005-07-22T19:38:36+09:00</lastmod>
   </url>
   
@@ -520,11 +385,6 @@
   <url>
     <loc>https://buta7.netlify.app/posts/2005/05/leon_russell/</loc>
     <lastmod>2005-05-22T18:36:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/tex-mex/</loc>
-    <lastmod>2005-05-21T18:03:29+09:00</lastmod>
   </url>
   
   <url>
@@ -578,11 +438,6 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/vosa-nova/</loc>
-    <lastmod>2005-04-19T17:44:21+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2005/04/alone/</loc>
     <lastmod>2005-04-15T18:32:04+09:00</lastmod>
   </url>
@@ -608,8 +463,23 @@
   </url>
   
   <url>
+    <loc>https://buta7.netlify.app/artists/</loc>
+    <lastmod>2004-12-27T01:02:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/chet-baker/</loc>
+    <lastmod>2004-12-27T01:02:49+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://buta7.netlify.app/posts/2004/12/sings/</loc>
     <lastmod>2004-12-27T01:02:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/osacr-peterson/</loc>
+    <lastmod>2004-12-23T21:37:33+09:00</lastmod>
   </url>
   
   <url>
@@ -623,6 +493,16 @@
   </url>
   
   <url>
+    <loc>https://buta7.netlify.app/artists/tommy-flanagan/</loc>
+    <lastmod>2004-12-21T11:58:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/bilie-holiday/</loc>
+    <lastmod>2004-12-18T07:03:26+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://buta7.netlify.app/posts/2004/12/the-greatest-interpretations-of-billie-holiday/</loc>
     <lastmod>2004-12-18T07:03:26+09:00</lastmod>
   </url>
@@ -630,6 +510,16 @@
   <url>
     <loc>https://buta7.netlify.app/posts/2004/12/after-midknight-session/</loc>
     <lastmod>2004-12-16T16:26:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/nat-king-cole/</loc>
+    <lastmod>2004-12-16T16:26:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/hampton-hawes/</loc>
+    <lastmod>2004-12-15T15:19:03+09:00</lastmod>
   </url>
   
   <url>
@@ -643,7 +533,17 @@
   </url>
   
   <url>
+    <loc>https://buta7.netlify.app/artists/andre-previn/</loc>
+    <lastmod>2004-12-11T10:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://buta7.netlify.app/posts/2004/12/my-fair-lady/</loc>
+    <lastmod>2004-12-11T10:12:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/shelly-manne/</loc>
     <lastmod>2004-12-11T10:12:47+09:00</lastmod>
   </url>
   
@@ -653,8 +553,13 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/john-coltrane/</loc>
+    <loc>https://buta7.netlify.app/artists/john-coltrane/</loc>
     <lastmod>2004-12-10T09:53:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/mccoy-tyner/</loc>
+    <lastmod>2004-12-09T21:47:54+09:00</lastmod>
   </url>
   
   <url>
@@ -668,7 +573,17 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/country/</loc>
+    <loc>https://buta7.netlify.app/artists/george-fame/</loc>
+    <lastmod>2004-12-06T11:13:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/byrds/</loc>
+    <lastmod>2004-12-02T11:49:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/gram-parsons/</loc>
     <lastmod>2004-12-02T11:49:33+09:00</lastmod>
   </url>
   
@@ -684,11 +599,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/posts/2004/10/curtis-live/</loc>
-    <lastmod>2004-10-01T13:48:46+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/rnb/</loc>
     <lastmod>2004-10-01T13:48:46+09:00</lastmod>
   </url>
   
@@ -728,11 +638,6 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/miles-davis/</loc>
-    <lastmod>2004-07-02T21:00:30+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2004/07/on-the-corner/</loc>
     <lastmod>2004-07-02T21:00:30+09:00</lastmod>
   </url>
@@ -744,11 +649,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/posts/2004/06/in-concert/</loc>
-    <lastmod>2004-06-17T20:37:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/vibraphone/</loc>
     <lastmod>2004-06-17T20:37:38+09:00</lastmod>
   </url>
   

@@ -3,8 +3,12 @@ title: "The Greatest Interpretations Of Billie Holiday"
 slug: "the-greatest-interpretations-of-billie-holiday"
 date: "2004-12-18T07:03:26+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'vocal']
+categories: 
+  - jazz
+tags:
+  - vocal
+artists:
+  - Bilie Holiday
 image: https://m.media-amazon.com/images/I/41YM8JWPRPL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B000059RT1/
 ---

@@ -11,6 +11,9 @@ googleAnalytics = "UA-171511257-1"
 disqusShortname = "buta7-netlify-app"
 # enableRobotsTXT = true
 
+[taxonomies]
+  artists = "artists"
+
 [params]
   background = "black"
   # backgroundImage = "/me/background.jpg"

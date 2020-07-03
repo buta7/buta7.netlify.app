@@ -1,10 +1,14 @@
 ---
-title: "The Complete Overseas/Tommy Flanagan"
+title: "The Complete Overseas"
 slug: "the-complete-overseas"
 date: "2004-12-21T11:58:30+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'piano']
+categories: 
+  - jazz
+tags: 
+  - piano
+artists:
+  - Tommy Flanagan
 image: https://images-na.ssl-images-amazon.com/images/I/41OPuBcPPHL._AC_.jpg
 link: https://www.amazon.co.jp/dp/B000WZO40U/
 ---
