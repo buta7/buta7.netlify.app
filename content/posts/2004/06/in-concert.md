@@ -8,7 +8,7 @@ tags: ['jazz', 'piano', 'vibraphone']
 link: https://www.amazon.co.jp/dp/B01K24FH3I/
 image: https://images-na.ssl-images-amazon.com/images/I/61VhOhM12PL._AC_.jpg
 ---
-[日曜のライブ](/wp-content/archives/000030.html)で小林さんがChick CoreaのBud Powelを演奏していたのを聴いて無性にほしくなり早速購入。 
+[日曜のライブ](/wp-content/archives/000030.html)で小林さん([小林香織 オフィシャルサイト \| サックス奏者](https://kaorikobayashi.com/))がChick CoreaのBud Powelを演奏していたのを聴いて無性にほしくなり早速購入。 
 <!--more-->
 オリジナルはどのアルバムなのか知らないが、私はこのGary Burtonとのライブバージョンが好きだったのでこれにした。 
 
