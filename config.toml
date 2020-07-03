@@ -14,7 +14,7 @@ disqusShortname = "buta7-netlify-app"
 [params]
   background = "black"
   # backgroundImage = "/me/background.jpg"
-  linkColor = "seagreen"
+  linkColor = "orangered"
 
   author = "higebobo"
   description = ""
