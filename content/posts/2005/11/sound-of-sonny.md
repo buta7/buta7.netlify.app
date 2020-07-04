@@ -1,10 +1,12 @@
 ---
-title: "The Sound of Sonny/Sonny Rollins"
+title: "The Sound of Sonny"
 slug: "sound-of-sonny"
 date: "2005-11-12T18:51:13+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'Sonny Rollins']
+categories: 
+  - jazz
+artists:
+  - Sonny Rollins
 image: https://m.media-amazon.com/images/I/51NdZWtacCL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B01I5BUAR8/
 ---

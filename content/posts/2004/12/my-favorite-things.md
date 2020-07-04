@@ -4,7 +4,7 @@ slug: "my-favorite-things"
 date: "2004-12-09T21:47:54+09:00"
 draft: false
 categories:
-  - jazz
+  - Jazz
 #tags: 
 artists:
   - John Coltrane

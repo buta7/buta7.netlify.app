@@ -1,10 +1,16 @@
 ---
-title: "In Concert/Chick Corea & Gary Burton"
+title: "In Concert"
 slug: "in-concert"
 date: "2004-06-17T20:37:38+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['jazz', 'piano', 'vibraphone']
+categories: 
+  - Jazz
+tags: 
+  - piano
+  - vibraphone
+artists:
+  - Chick Corea 
+  - Gary Burton
 link: https://www.amazon.co.jp/dp/B01K24FH3I/
 image: https://images-na.ssl-images-amazon.com/images/I/61VhOhM12PL._AC_.jpg
 ---

@@ -4,10 +4,10 @@ slug: "trio1"
 date: "2004-12-15T15:19:03+09:00"
 draft: false
 categories:
-  - jazz
+  - Jazz
 tags: 
   - piano
-  - west coast jazz
+  - est coast jazz
 artists:
   - Hampton Hawes
 image: https://m.media-amazon.com/images/I/51uuqN9oN1L._AC_UL320_.jpg

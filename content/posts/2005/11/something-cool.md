@@ -1,10 +1,14 @@
 ---
-title: "Something Cool/June Christy"
+title: "Something Cool"
 slug: "something-cool"
 date: "2005-11-23T16:00:37+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'vocal']
+categories:
+  - Jazz
+tags: 
+  - vocal
+artists:
+  - June Christy
 image: https://m.media-amazon.com/images/I/41GEVDKG9TL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B00005Q66L/
 ---

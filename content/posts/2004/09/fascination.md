@@ -1,10 +1,12 @@
 ---
-title: "Fascination/Elis Regina"
+title: "Fascination"
 slug: "fascination"
 date: "2004-09-07T11:36:13+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Vosa Nova']
+categories:
+  - Vosa Nova
+artists:
+  - Elis Regina
 image: https://m.media-amazon.com/images/I/41IobgZJjhL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B015TFN79G/
 ---

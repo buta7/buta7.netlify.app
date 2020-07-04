@@ -1,10 +1,16 @@
 ---
-title: "Dippin'/Hank Mobley"
+title: "Dippin'"
 slug: "dippin"
 date: "2004-06-17T20:29:19+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'Vosa Nova']
+categories:
+  - Jazz
+tags:
+  - Blue note
+artists:
+  - Hank Mobley
+  - Lee Morgan
+  - Harold Mabern
 link: https://www.amazon.co.jp/dp/B01I5BU9P6/
 image: https://images-na.ssl-images-amazon.com/images/I/51vNWzeotxL._AC_.jpg
 ---

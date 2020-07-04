@@ -1,10 +1,15 @@
 ---
-title: "Rock 'N' Roll Gumbo/Professor Longhair"
+title: "Rock 'N' Roll Gumbo"
 slug: "rock-n-roll-gumbo"
 date: "2005-11-14T23:22:09+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Blues']
+categories: 
+  - Blues
+tags:
+  - New Orleans
+artists:
+  - Professor Longhair
+  - Clarence Gatemouth Brown
 image: https://images-na.ssl-images-amazon.com/images/I/41hVgCWM--L._AC_SX425_.jpg
 link: https://www.amazon.co.jp/dp/B00005FMKJ/
 ---

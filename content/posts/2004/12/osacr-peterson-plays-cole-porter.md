@@ -4,7 +4,7 @@ slug: "osacr-peterson-plays-cole-porter"
 date: "2004-12-23T21:37:33+09:00"
 draft: false
 categories:
-  - jazz
+  - Jazz
 tags:
   - piano
   - Cole Porter

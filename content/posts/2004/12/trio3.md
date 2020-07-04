@@ -4,7 +4,7 @@ slug: "trio3"
 date: "2004-12-13T16:07:20+09:00"
 draft: false
 categories:
-  - jazz
+  - Jazz
 tags: 
   - piano
   - west coast jazz

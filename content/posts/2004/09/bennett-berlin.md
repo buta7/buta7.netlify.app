@@ -1,10 +1,14 @@
 ---
-title: "Bennett & Berlin/Tonny Bennet"
+title: "Bennett & Berlin"
 slug: "bennett-berlin"
 date: "2004-09-10T17:42:14+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'vocal']
+categories:
+  - Jazz
+tags: 
+  - vocal
+artists:
+  - Tonny Bennet
 image: https://m.media-amazon.com/images/I/71K1wEJYfAL._AC_UL320_.jpg
 link: 
 ---

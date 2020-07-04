@@ -1,10 +1,15 @@
 ---
-title: "Undercurrent/Bill Evans & Jim Hall "
+title: "Undercurrent"
 slug: "undercurrent"
 date: "2005-11-27T21:30:11+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Bill Evans', 'Jazz', 'piano']
+categories:
+  - Jazz
+tags: 
+  - piano
+artists:
+  - Bill Evans
+  - Jim Hall
 image: https://m.media-amazon.com/images/I/51sh9DaPB6L._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B01K24FHZG/
 ---

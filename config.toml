@@ -4,6 +4,7 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true
 title = "Nagoya Second Line"
 theme = "dream"
+#theme = "dream-plus"
 dateFormat = "Monday, Jan 2, 2006"
 copyright = "@buta7.com"
 
@@ -12,6 +13,8 @@ disqusShortname = "buta7-netlify-app"
 # enableRobotsTXT = true
 
 [taxonomies]
+  categories = "categories"
+  tags = "tags"
   artists = "artists"
 
 [params]

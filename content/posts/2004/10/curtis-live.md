@@ -1,10 +1,15 @@
 ---
-title: "Curtis Live!/Curtis Mayfield "
+title: "Curtis Live!"
 slug: "curtis-live"
 date: "2004-10-01T13:48:46+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['RnB']
+categories:
+  - RnB
+  - Soul
+tags: 
+  - rap
+artists:
+  - Curtis Mayfield 
 image: https://m.media-amazon.com/images/I/518C0TaP-RL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B00GZ3ROMS/
 ---

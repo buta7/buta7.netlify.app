@@ -3,8 +3,10 @@ title: "Black Sabbath Vol4"
 slug: "black-sabbath4"
 date: "2005-10-06T16:16:21+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Rock']
+categories: 
+  - Rock
+artists:
+  - Black Sabbath
 image: https://m.media-amazon.com/images/I/71EQMn2hHJL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B01H2ROWDE/
 ---

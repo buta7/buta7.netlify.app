@@ -1,10 +1,12 @@
 ---
-title: "The Bridge/Sonny Rollins"
+title: "The Bridge"
 slug: "bridge"
 date: "2005-11-03T17:06:51+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'Sonny Rollins']
+categories:
+  - Jazz
+artists:
+  - Sonny Rollins
 image: https://m.media-amazon.com/images/I/71CtgE6y1eL._AC_UL320_.jpg
 link: https://www.amazon.co.jpdp/B00MWUIGOS/
 ---

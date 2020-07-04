@@ -1,10 +1,14 @@
 ---
-title: "Waltz for Debby/Bill Evans"
+title: "Waltz for Debby"
 slug: "waltz-for-debby"
 date: "2004-07-18T08:17:39+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Bill Evans', 'Jazz', 'piano']
+categories:
+  - Jazz
+tags:
+  - piano
+artists:
+  - Bill Evans
 link: https://www.amazon.co.jp/dp/B000000YBQ/
 image: https://m.media-amazon.com/images/I/71FGaeGQwZL._AC_UL320_.jpg
 ---

@@ -4,7 +4,7 @@ slug: "after-midknight-session"
 date: "2004-12-16T16:26:16+09:00"
 draft: false
 categories:
-  - jazz
+  - Jazz
 tags: 
   - vocal
 artists:

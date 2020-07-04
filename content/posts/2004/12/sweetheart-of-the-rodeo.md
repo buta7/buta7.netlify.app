@@ -4,8 +4,8 @@ slug: "sweetheart-of-the-rodeo"
 date: "2004-12-02T11:49:33+09:00"
 draft: false
 categories: 
-  - country
-  - rock
+  - Country
+  - Rock
 #tags: 
 artists:
   - Byrds

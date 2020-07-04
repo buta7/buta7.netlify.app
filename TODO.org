@@ -1,12 +1,21 @@
-** DONE サイトリンクカラー: orange
-   CLOSED: [2020-07-03 金 20:42]
-** TODO バックグランド
-** TODO プロフィールページ
-** TODO 404.html
-** DONE アーカイブ年月別
+* org-mode configuration
+#+STARTUP: showall
+#+CATEGORY: buta7.netlify.app
+#+TODO: TODO(t) WAIT(w) | DONE(d) SOMEDAY(s)
+#+TAGS: theme(t) css(c) html(h) javascript(j) design(d)
+#状態変更 C-c C-t
+#タグ C-c C-c
+* Tasks [3/9]
+** TODO desgin [3/3]
+   - [X] サイトリンクカラー: orange                                     :css:
+   - [X] バックグランド                                                 :css:
+   - [X] favicon.ico
+** TODO プロフィールページ(back.html)                                  :html:
+** TODO 404.html                                                       :html:
+** DONE アーカイブ年月別                                               :html:
    CLOSED: [2020-07-03 金 16:30]
-** TODO 検索
-** DONE 続き実装
+** TODO 検索                                                     :javascript:
+** DONE 続きを読む                                                     :html:
    CLOSED: [2020-07-03 金 16:25]
-** TODO social
-** TODO favicon.ico
+** TODO social                                                         :html:
+** TODO dream-plus theme                                             :desgin:

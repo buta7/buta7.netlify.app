@@ -4,8 +4,9 @@ slug: "20-beat-classics"
 date: "2004-12-06T11:13:41+09:00"
 draft: false
 categories: 
-  - rock
-#tags: 
+  - Rock
+tags: 
+  - acid jazz
 artists:
   - George Fame
 image: https://m.media-amazon.com/images/I/71KEpclos1L._AC_UL320_.jpg

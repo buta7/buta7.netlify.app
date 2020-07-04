@@ -35,6 +35,12 @@ git rm themes/dream
 rm -fr .git/modules
 ```
 
+追加テーマ
+
+```shell
+git submodule add https://github.com/UtkarshVerma/hugo-dream-plus.git themes/dream-plus
+```
+
 サイト設定
 
 ```shell

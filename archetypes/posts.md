@@ -4,8 +4,9 @@ slug: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 #lastmod: {{ .Date }}
 draft: false
-categories: ['CDレビュー']
-#tags: []
+#categories:
+#tags:
+#artists:
 #image: 
 #link: 
 #author: Author Name

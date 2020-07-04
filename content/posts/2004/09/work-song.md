@@ -1,10 +1,15 @@
 ---
-title: "Work Song/Nat Adderley"
+title: "Work Song"
 slug: "work-song"
 date: "2004-09-01T10:47:11+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz']
+categories:
+  -  Jazz
+artists:
+  - Nat Adderley
+  - Sam Jones
+  - Wes Montgomery
+  - Bobby Timons
 image: https://m.media-amazon.com/images/I/51IVoHZMBpL._AC_UL320_.jpg
 link: https://www.amazon.co.jp//dp/B01I5BUAMI/
 ---

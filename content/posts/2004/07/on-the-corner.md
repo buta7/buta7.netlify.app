@@ -1,10 +1,12 @@
 ---
-title: "On the Corner/Miles Davis"
+title: "On the Corner"
 slug: "on-the-corner"
 date: "2004-07-02T21:00:30+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'Miles Davis']
+categories:
+  - Jazz
+artists:
+  - Miles Davis
 link: https://www.amazon.co.jp/dp/B00004VWAF/
 image: https://m.media-amazon.com/images/I/81E9dYx6MfL._AC_UL320_.jpg
 ---

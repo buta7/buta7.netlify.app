@@ -4,7 +4,7 @@ slug: "sings"
 date: "2004-12-27T01:02:49+09:00"
 draft: false
 categories:
-  - jazz
+  - Jazz
 tags: 
   - trumpet
   - vocal

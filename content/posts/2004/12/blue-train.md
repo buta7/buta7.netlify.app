@@ -4,12 +4,13 @@ slug: "blue-train"
 date: "2004-12-10T09:53:22+09:00"
 draft: false
 categories:
-  - jazz
+  - Jazz
 tags:
   - saxphone
   - Blue Note
 artists:
   - John Coltrane
+  - Lee Morgan
 image: https://m.media-amazon.com/images/I/71J415ZAjNL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B0000A5A0T/
 ---

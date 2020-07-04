@@ -1,10 +1,15 @@
 ---
-title: "The Rumproller/Lee Morgan"
+title: "The Rumproller"
 slug: "rumproller"
 date: "2005-11-18T20:16:27+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['Jazz', 'trumpet']
+categories:
+  - Jazz
+tags:
+  - trumpet
+artists:
+  - Lee Morgan
+  - Joe Henderson
 image: https://m.media-amazon.com/images/I/51DgFvlOwfL._AC_UL320_.jpg
 link: https://www.amazon.co.jp/dp/B00VXMUEYQ/
 ---

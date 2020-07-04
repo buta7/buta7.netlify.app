@@ -1,10 +1,13 @@
 ---
-title: "Killing Me Softly/Roberta Flack"
+title: "Killing Me Softly"
 slug: "killing-me-softly"
 date: "2004-07-02T20:53:20+09:00"
 draft: false
-categories: ['CDレビュー']
-tags: ['RnB']
+categories: 
+  - RnB
+  - Soul
+artists:
+  - Roberta Flack
 link: https://www.amazon.co.jp/dp/B000002J5U/
 image: https://m.media-amazon.com/images/I/412HA0D08GL._AC_UL320_.jpg
 ---
