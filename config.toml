@@ -22,16 +22,16 @@ disqusShortname = "buta7-netlify-app"
   # backgroundImage = "/me/background.jpg"
   linkColor = "orangered"
 
-  author = "higebobo"
+  author = "buta7"
   description = ""
   #avatar = "/img/avatar.jpg"
   avatar = "/images/sillywalk.png"
   motto = "The Ministry of Silly Walks"
 
-  twitter = "higebobo"
+  #twitter = "buta7"
   github = "buta7"
-  gitlab = "buta7"
-  bitbucket = "bitbucket"
+  #gitlab = "buta7"
+  #bitbucket = "bitbucket"
 
   siteStartYear = 2004
 
