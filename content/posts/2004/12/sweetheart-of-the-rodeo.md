@@ -6,7 +6,6 @@ draft: false
 categories: 
   - Country
   - Rock
-#tags: 
 artists:
   - Byrds
   - Gram Parsons

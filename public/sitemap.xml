@@ -588,23 +588,53 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/the_look_of_love/</loc>
+    <loc>https://buta7.netlify.app/artists/diana-krall/</loc>
     <lastmod>2005-05-27T21:46:26+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/new_moon_daughter/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/05/look-of-love/</loc>
+    <lastmod>2005-05-27T21:46:26+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/cassandra-wilson/</loc>
     <lastmod>2005-05-25T21:45:28+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/lynyrd_skynyrd/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/05/new-moon-daughter/</loc>
+    <lastmod>2005-05-25T21:45:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2005/05/lynyrd-skynyrd/</loc>
     <lastmod>2005-05-23T18:27:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/leon_russell/</loc>
+    <loc>https://buta7.netlify.app/artists/lynyrd-skynyrd/</loc>
+    <lastmod>2005-05-23T18:27:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2005/05/leon-russell/</loc>
     <lastmod>2005-05-22T18:36:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/leon-russell/</loc>
+    <lastmod>2005-05-22T18:36:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/categories/country/</loc>
+    <lastmod>2005-05-21T18:03:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/doug-sahm/</loc>
+    <lastmod>2005-05-21T18:03:29+09:00</lastmod>
   </url>
   
   <url>
@@ -613,13 +643,23 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/the_best_of_doug_sahm__the_sir_douglas_quintet_1968-1975/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/05/best-of-doug-sahm-the-sir-douglas-quintet-1968-1975/</loc>
     <lastmod>2005-05-21T18:03:29+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/hub_cap/</loc>
+    <loc>https://buta7.netlify.app/artists/freddie-hubbard/</loc>
     <lastmod>2005-05-19T18:15:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2005/05/hub-cap/</loc>
+    <lastmod>2005-05-19T18:15:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/earl-hines/</loc>
+    <lastmod>2005-05-16T17:57:58+09:00</lastmod>
   </url>
   
   <url>
@@ -628,22 +668,42 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/page_one/</loc>
+    <loc>https://buta7.netlify.app/tags/blue-note/</loc>
     <lastmod>2005-05-11T18:05:01+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/the_notorious_byrd_brothers/</loc>
+    <loc>https://buta7.netlify.app/artists/kenny-dorham/</loc>
+    <lastmod>2005-05-11T18:05:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/mccoy-tyner/</loc>
+    <lastmod>2005-05-11T18:05:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2005/05/page-one/</loc>
+    <lastmod>2005-05-11T18:05:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/byrds/</loc>
     <lastmod>2005-05-10T17:53:21+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/mr._tambourine_man/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/05/notorious-byrd-brothers/</loc>
+    <lastmod>2005-05-10T17:53:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2005/05/mr-tambourine-man/</loc>
     <lastmod>2005-05-09T17:41:13+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2005/05/quiet_kenny/</loc>
+    <loc>https://buta7.netlify.app/posts/2005/05/quiet-kenny/</loc>
     <lastmod>2005-05-06T09:42:53+09:00</lastmod>
   </url>
   
@@ -793,11 +853,6 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/blue-note/</loc>
-    <lastmod>2004-12-10T09:53:22+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2004/12/blue-train/</loc>
     <lastmod>2004-12-10T09:53:22+09:00</lastmod>
   </url>
@@ -810,11 +865,6 @@
   <url>
     <loc>https://buta7.netlify.app/tags/saxphone/</loc>
     <lastmod>2004-12-10T09:53:22+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/artists/mccoy-tyner/</loc>
-    <lastmod>2004-12-09T21:47:54+09:00</lastmod>
   </url>
   
   <url>
@@ -835,16 +885,6 @@
   <url>
     <loc>https://buta7.netlify.app/artists/george-fame/</loc>
     <lastmod>2004-12-06T11:13:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/artists/byrds/</loc>
-    <lastmod>2004-12-02T11:49:33+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/categories/country/</loc>
-    <lastmod>2004-12-02T11:49:33+09:00</lastmod>
   </url>
   
   <url>
