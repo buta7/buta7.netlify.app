@@ -368,8 +368,43 @@
   </url>
   
   <url>
+    <loc>https://buta7.netlify.app/artists/art-blakey/</loc>
+    <lastmod>2006-10-13T18:55:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/</loc>
+    <lastmod>2006-10-13T18:55:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/benny-golson/</loc>
+    <lastmod>2006-10-13T18:55:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/bobby-timons/</loc>
+    <lastmod>2006-10-13T18:55:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/categories/jazz/</loc>
+    <lastmod>2006-10-13T18:55:23+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://buta7.netlify.app/posts/2006/10/moanin/</loc>
     <lastmod>2006-10-13T18:55:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/carole-king/</loc>
+    <lastmod>2006-07-19T08:57:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/categories/folk/</loc>
+    <lastmod>2006-07-19T08:57:24+09:00</lastmod>
   </url>
   
   <url>
@@ -378,22 +413,42 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2006/07/song_for_my_father/</loc>
+    <loc>https://buta7.netlify.app/artists/horace-silver/</loc>
     <lastmod>2006-07-15T13:28:46+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2006/07/six_pieces_of_silver/</loc>
+    <loc>https://buta7.netlify.app/posts/2006/07/song-for-my-father/</loc>
+    <lastmod>2006-07-15T13:28:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2006/07/six-pieces-of-silver/</loc>
     <lastmod>2006-07-07T22:42:15+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2006/05/blue_burton/</loc>
+    <loc>https://buta7.netlify.app/artists/ann-burton/</loc>
     <lastmod>2006-05-07T11:41:19+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2006/05/elton_john_greatest_hits/</loc>
+    <loc>https://buta7.netlify.app/posts/2006/05/blue-burton/</loc>
+    <lastmod>2006-05-07T11:41:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/elton-john/</loc>
+    <lastmod>2006-05-04T11:47:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2006/05/elton-john-greatest-hits/</loc>
+    <lastmod>2006-05-04T11:47:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/categories/pops/</loc>
     <lastmod>2006-05-04T11:47:13+09:00</lastmod>
   </url>
   
@@ -403,7 +458,22 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/sonny-rollins/</loc>
+    <loc>https://buta7.netlify.app/tags/guitar/</loc>
+    <lastmod>2006-02-10T22:54:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/jim-hall/</loc>
+    <lastmod>2006-02-10T22:54:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/sonny-rollins/</loc>
+    <lastmod>2006-02-04T13:58:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/thelonious-monk/</loc>
     <lastmod>2006-02-04T13:58:22+09:00</lastmod>
   </url>
   
@@ -413,27 +483,12 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/2006/01/ballad_and_burton/</loc>
+    <loc>https://buta7.netlify.app/posts/2006/01/ballad-and-burton/</loc>
     <lastmod>2006-01-13T17:12:43+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/artists/</loc>
-    <lastmod>2005-11-27T21:30:11+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/artists/bill-evans/</loc>
-    <lastmod>2005-11-27T21:30:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/categories/jazz/</loc>
-    <lastmod>2005-11-27T21:30:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/artists/jim-hall/</loc>
     <lastmod>2005-11-27T21:30:11+09:00</lastmod>
   </url>
   
@@ -525,11 +580,6 @@
   <url>
     <loc>https://buta7.netlify.app/posts/2005/11/rock-n-roll-gumbo/</loc>
     <lastmod>2005-11-14T23:22:09+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/artists/sonny-rollins/</loc>
-    <lastmod>2005-11-12T18:51:13+09:00</lastmod>
   </url>
   
   <url>
@@ -759,11 +809,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/posts/2005/01/moonlight-serenade/</loc>
-    <lastmod>2005-01-23T22:02:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/categories/pops/</loc>
     <lastmod>2005-01-23T22:02:36+09:00</lastmod>
   </url>
   
@@ -1010,11 +1055,6 @@
   <url>
     <loc>https://buta7.netlify.app/posts/2004/09/the-essential-marcos-valle-volume-2/</loc>
     <lastmod>2004-09-02T11:44:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/artists/bobby-timons/</loc>
-    <lastmod>2004-09-01T10:47:11+09:00</lastmod>
   </url>
   
   <url>
