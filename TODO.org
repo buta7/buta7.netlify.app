@@ -19,3 +19,4 @@
    CLOSED: [2020-07-03 金 16:25]
 ** TODO social                                                         :html:
 ** TODO dream-plus theme                                             :desgin:
+** TODO artists tagの表示                                              :html:
