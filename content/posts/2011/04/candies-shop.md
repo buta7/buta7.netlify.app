@@ -7,7 +7,7 @@ categories:
   - 歌謡曲
 artists:
   - キャンディーズ
-image: http://www.soundfinder.jp//img/products/102065/1519916400/5a9942cc-bbe0-4355-9154-7ce87697bade/1220144.jpg
+image: images/20110423.jpg
 link: http://www.soundfinder.jp/products/view/2125623/
 ---
 このアルバムは私が小学生の時に生まれて初めて買ったLP盤である。
@@ -28,4 +28,6 @@ link: http://www.soundfinder.jp/products/view/2125623/
 スーちゃんの訃報を聞きこのブログを書いている。
 スーちゃん、そしてキャンディーズは私の青春時代にはまだ早い時期だったけども大好きなアイドルだった。 心よりご冥福を祈ります。
 
-![20110423b](/wp-content/uploads/2011/04/20110423b.jpg)
+![](/images/20110423a.jpg)
+
+![](/images/20110423b.jpg)
