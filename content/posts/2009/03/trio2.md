@@ -1,6 +1,6 @@
 ---
 title: "This is Hampton Hawes vol.2"
-slug: "hampton_hawes2"
+slug: "trio2"
 date: "2009-03-09T23:45:33+09:00"
 draft: false
 categories: 
