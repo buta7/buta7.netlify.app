@@ -20,3 +20,4 @@
 ** TODO social                                                         :html:
 ** TODO dream-plus theme                                             :desgin:
 ** TODO artists tagの表示                                              :html:
+** TODO "タグ未設定"の表示不要                                         :html:

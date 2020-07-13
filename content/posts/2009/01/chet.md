@@ -11,8 +11,9 @@ tags:
 artists:
   - Chet Baker
   - Pepper Adams
+image: https://m.media-amazon.com/images/I/515J0gx8c8L._AC_UL320_.jpg
+link: https://www.amazon.co.jp/dp/B01I5BUAF0/
 ---
-![20090102](/wp-content/uploads/2009/01/20090102.jpg) 
 若かりし日から日の目を浴びてきた希有のトランペッター、チェット・ベイカーが自分の名前を冠するアルバムだから思い入れは相当なものかと思う。 
 <!--more-->
 個人的にはただ安かったから買っただけなのだけどそれはそれで大変失礼な話で聴けば聴くほどよさがわかる名盤だ。
