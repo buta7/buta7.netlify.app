@@ -8,6 +8,8 @@ theme = "dream"
 dateFormat = "Monday, Jan 2, 2006"
 copyright = "@buta7.com"
 
+paginate = 9
+
 googleAnalytics = "UA-171511257-1"
 disqusShortname = "buta7-netlify-app"
 # enableRobotsTXT = true
