@@ -8,7 +8,7 @@ categories: jazz
 artists:
   - Jackie McLean
 image: https://m.media-amazon.com/images/I/41H7PSFXAZL._AC_UL320_.jpg
-link:https://www.amazon.co.jp/dp/B000228WJM/
+link: https://www.amazon.co.jp/dp/B000228WJM/
 ---
 ジャケよし、タイトルよし、演奏よし、の三方よしの名盤
 <!--more-->
