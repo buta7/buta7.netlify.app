@@ -92,6 +92,10 @@ hugo new posts/2020/05/helloworld.md
 content/posts/2020/05/helloworld.md created
 ```
 
+```shell
+SLUG=helloworld DATE=20200505 make post
+```
+
 文書作成
 
 ```shell

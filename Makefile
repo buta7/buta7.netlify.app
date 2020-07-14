@@ -14,6 +14,14 @@ ifneq ("$(wildcard ./.env)","")
   include ./.env
 endif
 
+ifndef SLUG
+  SLUG=""
+endif
+
+ifndef DATE
+  DATE=""
+endif
+
 run: ## Run server
 	@hugo server --bind="0.0.0.0" --baseUrl="${HOST}" --port=${PORT} --buildDrafts --watch
 
@@ -31,6 +39,10 @@ deploy: build ## Deploy on Github Pages
 clean: ## Clean old files
 	@hugo --cleanDestinationDir
 	rm -fr public/*
+
+post: ## Post blog
+	python scripts/genpost.py -s ${SLUG} -d ${DATE}
+	@#echo "hugo new posts/<yyyy>/<mm>/<slug>.md"
 
 help: ## Print this help
 	@echo 'Usage: make [target]'
