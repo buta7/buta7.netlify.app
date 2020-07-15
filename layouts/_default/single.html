@@ -12,6 +12,14 @@
           {{ .Title }}
           <div class="sub header">{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }} · {{ i18n "updateAt" }} {{ dateFormat .Site.Params.DateFormat .Lastmod }}<!-- · {{ .Date.Format .Site.Params.DateFormat }} -->· {{ .ReadingTime }}{{ i18n "minuteRead" }}</div>
         </h2>
+        <!-- <div class="dream-tags"> -->
+        <div>
+        {{ if isset .Params "artists" }}
+          {{ range $artists := .Params.artists }}
+          <a class="ui label" href="{{ "artists/" | relLangURL }}{{ $artists | urlize }}" title="{{ $artists }}">{{ $artists }}</a>
+          {{ end }}
+        {{ end }}
+        </div>
       </header>
       <article style="margin-top: 2rem;">
         {{ if isset .Params "image" }}
@@ -26,26 +34,23 @@
       </article>
     </section>
 
+    {{ if isset .Params "tags" }}
     <footer class="ui attached segment dream-tags">
-      {{ if isset .Params "artists" }}
-        {{ range $artists := .Params.artists }}
-          <a class="ui label" href="{{ "artists/" | relLangURL }}{{ $artists | urlize }}" title="{{ $artists }}">{{ $artists }}</a>
-        {{ end }}
-      {{ end }}
-      {{ if isset .Params "tags" }}
         {{ range $tag := .Params.tags }}
           <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
         {{ end }}
       {{ else }}
           <!-- <a class="ui label">{{ i18n "noTag" }}</a> -->
-      {{ end }}
+<!--
       <div
         class="ui label"
         style="float: right; background: #1b1c1d !important; cursor: pointer;"
         onclick="savePostAsImg()">
         <i class="save icon"></i> {{ i18n "saveImage" }}
       </div>
+-->
     </footer>
+    {{ end }}
 
     {{ if .Site.Copyright }}
       <footer class="ui attached segment">

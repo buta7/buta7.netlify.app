@@ -7,7 +7,7 @@ categories:
   - Jazz
 tags: 
   - piano
-  - est coast jazz
+  - west coast jazz
 artists:
   - Hampton Hawes
 image: https://m.media-amazon.com/images/I/51uuqN9oN1L._AC_UL320_.jpg

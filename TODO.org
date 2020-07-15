@@ -5,7 +5,7 @@
 #+TAGS: theme(t) css(c) html(h) javascript(j) design(d)
 #状態変更 C-c C-t
 #タグ C-c C-c
-* Tasks [3/9]
+* Tasks [4/10]
 ** TODO desgin [3/3]
    - [X] サイトリンクカラー: orange                                     :css:
    - [X] バックグランド                                                 :css:
@@ -19,5 +19,8 @@
    CLOSED: [2020-07-03 金 16:25]
 ** TODO social                                                         :html:
 ** TODO dream-plus theme                                             :desgin:
-** TODO artists tagの表示                                              :html:
-** TODO "タグ未設定"の表示不要                                         :html:
+** DONE artists tagの表示                                              :html:
+   CLOSED: [2020-07-15 水 20:10]
+** DONE "タグ未設定"の表示不要                                         :html:
+   CLOSED: [2020-07-15 水 20:10]
+** TODO favicon.ico                                                  :design:
