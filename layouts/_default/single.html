@@ -27,12 +27,17 @@
     </section>
 
     <footer class="ui attached segment dream-tags">
+      {{ if isset .Params "artists" }}
+        {{ range $artists := .Params.artists }}
+          <a class="ui label" href="{{ "artists/" | relLangURL }}{{ $artists | urlize }}" title="{{ $artists }}">{{ $artists }}</a>
+        {{ end }}
+      {{ end }}
       {{ if isset .Params "tags" }}
         {{ range $tag := .Params.tags }}
           <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
         {{ end }}
       {{ else }}
-          <a class="ui label">{{ i18n "noTag" }}</a>
+          <!-- <a class="ui label">{{ i18n "noTag" }}</a> -->
       {{ end }}
       <div
         class="ui label"

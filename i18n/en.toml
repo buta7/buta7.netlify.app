@@ -27,6 +27,13 @@ other = "All Categories"
 one = "category"
 other = "{{ .Count }} categories"
 
+[allArtists]
+other = "All Artists"
+
+[artist]
+one = "artist"
+other = "{{ .Count }} artists"
+
 [article]
 one = "1 article"
 other = "{{ .Count }} articles"
