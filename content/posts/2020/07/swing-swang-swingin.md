@@ -1,5 +1,5 @@
 ---
-title: "Swing Swang Swingin"
+title: "Swing Swang Swingin'"
 slug: "swing-swang-swingin"
 date: "2020-07-15T08:18:46+09:00"
 draft: false
