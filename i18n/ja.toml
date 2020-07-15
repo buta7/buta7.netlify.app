@@ -28,7 +28,7 @@ one = "カテゴリー"
 other = "{{ .Count }} カテゴリー"
 
 [allArtists]
-other = "全てのアーティスト"
+other = "アーティスト一覧"
 
 [artist]
 one = "アーティスト"

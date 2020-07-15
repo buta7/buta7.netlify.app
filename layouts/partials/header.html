@@ -2,13 +2,15 @@
   <section class="ui top attached center aligned segment">
     <div class="ui small circular image">
       {{ if isset .Site.Params "avatar" }}
-        <img src="{{ .Site.Params.avatar | relURL }}">
+        <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.avatar | relURL }}"></a>
       {{ end }}
     </div>
 
     <h1 class="ui medium header">
+      <a href="{{ .Site.BaseURL }}">
       {{- .Site.Params.author -}}{{- i18n "blogAlias" -}}
       <div class="sub header" style="margin-top: 0.5rem;">{{- .Site.Params.motto -}}</div>
+      </a>
     </h1>
 
     <div class="ui horizontal list">
