@@ -38,6 +38,17 @@
   {{ end }}
 
   {{ if .Site.Taxonomies.categories }}
+  <section class="ui attached segment">
+    <select class="ui dropdown"  onchange="location.href=value;">
+      <option value="">{{ i18n "allCategories" }}</option>
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+      <option value="{{ "categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</option>
+      {{ end }}
+    </select>
+  </section>
+  {{ end }}
+<!--
+  {{ if .Site.Taxonomies.categories }}
   <section class="ui attached segment dream-categories">
     <div class="ui accordion">
       {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
@@ -60,7 +71,7 @@
     </div>
   </section>
   {{ end }}
-
+-->
   {{ if .Site.Taxonomies.tags }}
   <section class="ui attached center aligned segment dream-tags">
     {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
