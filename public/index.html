@@ -24,7 +24,7 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://buta7.netlify.app/" />
-<meta property="og:updated_time" content="2020-07-15T14:23:23+09:00" /><meta property="og:site_name" content="名古屋セカンドライン・わっしょい" />
+<meta property="og:updated_time" content="2020-07-17T08:25:42+09:00" /><meta property="og:site_name" content="名古屋セカンドライン・わっしょい" />
 
 
 
@@ -82,11 +82,13 @@
   <section class="ui top attached center aligned segment">
     <div class="ui small circular image">
       
-        <img src="/images/sillywalk.png">
+        <a href="https://buta7.netlify.app/"><img src="/images/sillywalk.png"></a>
       
     </div>
 
-    <h1 class="ui medium header">higeboboのブログ<div class="sub header" style="margin-top: 0.5rem;">The Ministry of Silly Walks</div>
+    <h1 class="ui medium header">
+      <a href="https://buta7.netlify.app/">higeboboのブログ<div class="sub header" style="margin-top: 0.5rem;">The Ministry of Silly Walks</div>
+      </a>
     </h1>
 
     <div class="ui horizontal list">
@@ -96,7 +98,7 @@
       </a>
       
       <a class="item" href="/artists">
-        <i class="microphone icon" title="全てのアーティスト"></i>
+        <i class="microphone icon" title="アーティスト一覧"></i>
       </a>
       <a class="item" href="/tags">
         <i class="tags icon" title="タグ一覧"></i>
@@ -292,6 +294,8 @@
     
       <a class="ui label" href="/artists/queen" title="queen">queen</a>
     
+      <a class="ui label" href="/artists/ray-brown" title="ray-brown">ray-brown</a>
+    
       <a class="ui label" href="/artists/red-garland" title="red-garland">red-garland</a>
     
       <a class="ui label" href="/artists/roberta-flack" title="roberta-flack">roberta-flack</a>
@@ -334,932 +338,37 @@
   
 
   
-  <section class="ui attached segment dream-categories">
-    <div class="ui accordion">
+  <section class="ui attached segment">
+    <select class="ui dropdown"  onchange="location.href=value;">
+      <option value="">カテゴリー一覧</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/blues" class="item">blues</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/rock-n-roll-gumbo/" class="item">Rock &#39;N&#39; Roll Gumbo</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/best-of-doug-sahm-the-sir-douglas-quintet-1968-1975/" class="item">The Best Of Doug Sahm &amp; The Sir Douglas Quintet 1968-1975</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/blues">blues</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/country" class="item">country</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/05/safe-at-home/" class="item">Safe at Home</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/05/burrito-deluxe/" class="item">Burrito Deluxe</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/04/gilded-place-of_sin/" class="item">The Gilded Place Of Sin</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/best-of-doug-sahm-the-sir-douglas-quintet-1968-1975/" class="item">The Best Of Doug Sahm &amp; The Sir Douglas Quintet 1968-1975</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/01/youre-for-me/" class="item">You&#39;re For Me</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/sweetheart-of-the-rodeo/" class="item">Sweetheart of the Rodeo</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/country">country</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/folk" class="item">folk</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/07/tapestry/" class="item">Tapestry</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/folk">folk</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/funk" class="item">funk</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/03/everything-i-play-is-funky/" class="item">Everything I Play Is Funky</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/funk">funk</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/jazz" class="item">jazz</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2020/07/swing-swang-swingin/" class="item">Swing Swang Swingin&#39;</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2011/04/night-beat/" class="item">Night Beat</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/05/king-size/" class="item">King Size !</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/04/piano/" class="item">Piano</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/04/songs-for-young-lovers/" class="item">Songs for Young Lovers</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/03/blue-moon/" class="item">Blue Moon</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/03/torchy/" class="item">Torchy</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/03/trio2/" class="item">This is Hampton Hawes vol.2</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/03/everything-i-play-is-funky/" class="item">Everything I Play Is Funky</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/03/desmond-blue/" class="item">Desmond Blue</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/stephane-grappelli-plays-jerome-kern/" class="item">Stephane Grappelli Plays Jerome Kern</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/i-remember-django/" class="item">I Remember Django</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/undercurrent/" class="item">Undercurrent</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/una-mas/" class="item">Una Mas</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/stylings-of-silver/" class="item">The Stylings Of Silver</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/happenings/" class="item">Happenings</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/come-dream-with-me/" class="item">Come Dream With Me</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/duotones/" class="item">Duotones</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/green-leaves-of-summer/" class="item">The Green Leaves of Summer</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/new-york-state-of-mind/" class="item">New York State of Mind</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/shape-of-jazz-to-come/" class="item">The Shape Of Jazz To Come</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/fraction-of-you/" class="item">A Fraction Of You</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/great-american-songbook/" class="item">The Great American Songbook</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/fatha/" class="item">Fatha</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/taking-a-chance-on-love/" class="item">Taking A Chance On Love</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/dreaming-wide-awake/" class="item">Dreaming Wide Awake</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/first-place-again/" class="item">First Place Again</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/dave-digs-disney/" class="item">Dave Digs Disney</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/latin-kick/" class="item">The Latin Kick</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/individualism-of-gil-evans/" class="item">The Individualism Of Gil Evans</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/source/" class="item">The Source</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/chasin-the-jazz-gone-by/" class="item">Chasin&#39; The Jazz Gone By</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/albert-ayler-in-greenwich-village/" class="item">Albert Ayler In Greenwich Village</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/give-me-the-night/" class="item">Give Me The Night</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/chet/" class="item">Chet</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2008/07/time-out/" class="item">Time Out</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2008/07/concert-by_the-sea/" class="item">Concert By The Sea</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2008/07/surf-ride/" class="item">Surf Ride</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2008/07/groovy/" class="item">Groovy</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2007/02/crazy-and-mixed-up/" class="item">Crazy And Mixed Up</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2007/02/benny_carter_sessions/" class="item">The Benny Carter Sessions</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2007/02/misty/" class="item">Misty</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/10/moanin/" class="item">Moanin&#39;</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/07/song-for-my-father/" class="item">Song For My Father</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/07/six-pieces-of-silver/" class="item">Six Pieces Of Silver</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/05/blue-burton/" class="item">Blue Burton</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/02/concierto/" class="item">Concierto</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/02/volume_2/" class="item">Volume 2</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/01/ballad-and-burton/" class="item">Ballad And Burton</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/undercurrent/" class="item">Undercurrent</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/magic-of-juju/" class="item">The Magic Of Juju</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/here-is-phineas/" class="item">Here Is Phineas</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/something-cool/" class="item">Something Cool</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/rumproller/" class="item">The Rumproller</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/chet-baker-and-crew/" class="item">Chet Baker &amp; Crew</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/sound-of-sonny/" class="item">The Sound of Sonny</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/pearl/" class="item">Pearl</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/11/bridge/" class="item">The Bridge</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/07/hadows-2005-07/" class="item">Hadows 2005.7</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/look-of-love/" class="item">The Look Of Love</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/new-moon-daughter/" class="item">New Moon Daughter</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/hub-cap/" class="item">Hub Cap</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/fatha/" class="item">Fatha by The New Earl Hines Trio</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/page-one/" class="item">Page One</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/quiet-kenny/" class="item">Quiet Kenny</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/04/black-coffee/" class="item">Black Coffee</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/04/book-of-ballads/" class="item">Book Of Ballads</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/04/astrud-gilberto-album/" class="item">The Astrud Gilberto Album</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/04/alone/" class="item">Alone</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/01/bossa-nova-exciting-jazz-samba-rhythms4/" class="item">The Bossa Nova Exciting Jazz Samba Rhythms Vol.4</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/01/kenny-drew-trio/" class="item">The Kenny Drew Trio</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/sings/" class="item">Sings</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/osacr-peterson-plays-cole-porter/" class="item">Osacr Peterson Plays Cole Porter</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/complete-overseas/" class="item">The Complete Overseas</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/greatest-interpretations-of-billie-holiday/" class="item">The Greatest Interpretations Of Billie Holiday</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/after-midknight-session/" class="item">After Midknight Session</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/trio1/" class="item">The Trio Vol.1</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/trio3/" class="item">The Trio Vol.3</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/my-fair-lady/" class="item">My Fair Lady</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/blue-train/" class="item">Blue Train</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/my-favorite-things/" class="item">My Favorite Things/</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/10/but-not-for-me/" class="item">But Not For Me</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/09/bennett-berlin/" class="item">Bennett &amp; Berlin</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/09/work-song/" class="item">Work Song</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/08/red-garland-at-the-prelude/" class="item">Red Garland At The Prelude</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/07/art-pepper-meets_the-rhythm-section/" class="item">Art Pepper Meets the Rhythm Section</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/07/waltz-for-debby/" class="item">Waltz for Debby</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/07/on-the-corner/" class="item">On the Corner</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/06/in-concert/" class="item">In Concert</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/06/dippin/" class="item">Dippin&#39;</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/jazz">jazz</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/latin" class="item">latin</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2011/04/night-beat/" class="item">Night Beat</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/01/latin-kick/" class="item">The Latin Kick</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/latin">latin</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/live" class="item">live</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/07/hadows-2005-07/" class="item">Hadows 2005.7</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/live">live</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/pops" class="item">pops</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/04/best-of-frankie-valli-four-seasons/" class="item">The Best Of Frankie Valli &amp; The Four Seasons</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/02/ive-never-been-to-me/" class="item">I&#39;ve Never Been To Me</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2006/05/elton-john-greatest-hits/" class="item">Elton John Greatest Hits</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/01/moonlight-serenade/" class="item">Moonlight Serenade</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/pops">pops</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/rnb" class="item">rnb</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/04/gilded-place-of_sin/" class="item">The Gilded Place Of Sin</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/10/curtis-live/" class="item">Curtis Live!</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/07/killing-me-softly/" class="item">Killing Me Softly</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/rnb">rnb</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/rock" class="item">rock</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2020/07/bohemian-rhapsody/" class="item">Bohemian Rhapsody</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/06/american-beauty/" class="item">American Beauty</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/05/safe-at-home/" class="item">Safe at Home</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/05/burrito-deluxe/" class="item">Burrito Deluxe</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/04/gilded-place-of_sin/" class="item">The Gilded Place Of Sin</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/04/guess-who-at-their-best/" class="item">The Guess Who At Their Best</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2009/04/get-happy/" class="item">Get Happy</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/10/black-sabbath4/" class="item">Black Sabbath Vol4</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/lynyrd-skynyrd/" class="item">LYNYRD SKYNYRD</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/leon-russell/" class="item">LEON RUSSELL</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/best-of-doug-sahm-the-sir-douglas-quintet-1968-1975/" class="item">The Best Of Doug Sahm &amp; The Sir Douglas Quintet 1968-1975</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/notorious-byrd-brothers/" class="item">The Notorious Byrd Brothers</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/05/mr-tambourine-man/" class="item">Mr. Tambourine Man</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/20-beat-classics/" class="item">20 Beat Classics</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/12/sweetheart-of-the-rodeo/" class="item">Sweetheart of the Rodeo</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/rock">rock</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/soul" class="item">soul</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/10/curtis-live/" class="item">Curtis Live!</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/07/killing-me-softly/" class="item">Killing Me Softly</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/soul">soul</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/vosa-nova" class="item">vosa-nova</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/04/astrud-gilberto-album/" class="item">The Astrud Gilberto Album</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2005/01/bossa-nova-exciting-jazz-samba-rhythms4/" class="item">The Bossa Nova Exciting Jazz Samba Rhythms Vol.4</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/09/fascination/" class="item">Fascination</a>
-              </div>
-            </div>
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2004/09/the-essential-marcos-valle-volume-2/" class="item">The Essential Marcos Valle Volume 2</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/vosa-nova">vosa-nova</option>
       
-        <div class="title">
-          <i class="dropdown icon"></i>
-          <a href="/categories/%E6%AD%8C%E8%AC%A1%E6%9B%B2" class="item">歌謡曲</a>
-        </div>
-        <div class="content">
-          <div class="ui list">
-          
-            <div class="item">
-              <div class="content">
-                <a href="/posts/2011/04/candies-syop/" class="item">キャンディーズSHOP(THE BEST)</a>
-              </div>
-            </div>
-          
-          </div>
-        </div>
+      <option value="/categories/%E6%AD%8C%E8%AC%A1%E6%9B%B2">歌謡曲</option>
       
-    </div>
+    </select>
   </section>
   
 
@@ -1360,6 +469,42 @@
   </div>
 
   
+  
+    
+    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    
+      
+<article class="ui raised card dream-card">
+
+  <div class="image">
+    
+      <img src="https://m.media-amazon.com/images/I/71vd38BaxrL._AC_UL320_.jpg" alt="Poll Winners Ride Again" onclick="location.href='https:\/\/buta7.netlify.app\/posts\/2020\/07\/poll-winners-ride-again\/'" />
+    
+  </div>
+
+  <div class="content">
+    <h2 class="ui medium header">
+      <a href="https://buta7.netlify.app/posts/2020/07/poll-winners-ride-again/">Poll Winners Ride Again</a>
+    </h2>
+    <div class="meta">
+      <p class="date">2020年7月17日</p>
+      <p class="author">@ higebobo</p>
+    </div>
+    <div class="description">
+      ジャケットはあれだが
+&nbsp;(<a href="https://buta7.netlify.app/posts/2020/07/poll-winners-ride-again/">続きを読む</a>)
+    </div>
+  </div>
+
+  <div class="extra content">
+    <a href="https://buta7.netlify.app/posts/2020/07/poll-winners-ride-again/">
+      <i class="clock icon"></i>
+      1 分で読めます
+    </a>
+  </div>
+</article>
+
+    </div>
   
     
     <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
@@ -1640,41 +785,6 @@
 
   <div class="extra content">
     <a href="https://buta7.netlify.app/posts/2009/05/burrito-deluxe/">
-      <i class="clock icon"></i>
-      1 分で読めます
-    </a>
-  </div>
-</article>
-
-    </div>
-  
-    
-    <div class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
-    
-      
-<article class="ui raised card dream-card">
-
-  <div class="image">
-    
-      <img src="https://m.media-amazon.com/images/I/51q83A-mGUL._AC_UL320_.jpg" alt="Piano" onclick="location.href='https:\/\/buta7.netlify.app\/posts\/2009\/04\/piano\/'" />
-    
-  </div>
-
-  <div class="content">
-    <h2 class="ui medium header">
-      <a href="https://buta7.netlify.app/posts/2009/04/piano/">Piano</a>
-    </h2>
-    <div class="meta">
-      <p class="date">2009年4月21日</p>
-      <p class="author">@ higebobo</p>
-    </div>
-    <div class="description">
-      Wynton Kellyはマイナー調のブルージーなピアノを弾くのでどうも私の中ではSonny Clarkとかぶる。 まあそれはよいとして1曲目のWhispe&nbsp;(<a href="https://buta7.netlify.app/posts/2009/04/piano/">続きを読む</a>)
-    </div>
-  </div>
-
-  <div class="extra content">
-    <a href="https://buta7.netlify.app/posts/2009/04/piano/">
       <i class="clock icon"></i>
       1 分で読めます
     </a>
