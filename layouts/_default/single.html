@@ -39,16 +39,6 @@
         {{ range $tag := .Params.tags }}
           <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
         {{ end }}
-      {{ else }}
-          <!-- <a class="ui label">{{ i18n "noTag" }}</a> -->
-<!--
-      <div
-        class="ui label"
-        style="float: right; background: #1b1c1d !important; cursor: pointer;"
-        onclick="savePostAsImg()">
-        <i class="save icon"></i> {{ i18n "saveImage" }}
-      </div>
--->
     </footer>
     {{ end }}
 
