@@ -10,7 +10,7 @@ tags:
 artists:
   - Joe Satriani
 image: https://m.media-amazon.com/images/I/51JAVYJF93L._AC_UL320_.jpg
-link: https://www.amazon.co.jp/SURFING-ALIEN-JOE-SATRIANI/dp/B000025N63/
+link: https://www.amazon.co.jp/dp/B000025N63/
 ---
 [Bohemian Rhapsody]({{< ref "bohemian-rhapsody" >}})でブライアンの大げさなギターに魅了されいてアマゾンとか見ていてこのミュージシャンを知った。
 <!--more-->
