@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@buta7.com</copyright>
-    <lastBuildDate>Tue, 18 Aug 2020 12:34:30 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 09:17:36 +0900</lastBuildDate>
     
 	<atom:link href="https://buta7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best-Rest-Dennis-Brown</title>
+      <link>https://buta7.netlify.app/posts/2020/08/best-of-dennis-brown/</link>
+      <pubDate>Wed, 19 Aug 2020 09:17:36 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/posts/2020/08/best-of-dennis-brown/</guid>
+      <description>&lt;p&gt;UKレゲエの雄 Dennis Brown御大&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Wonderful Summer</title>
