@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://buta7.netlify.app/artists/10cc/</loc>
-    <lastmod>2020-08-21T13:42:37+09:00</lastmod>
+    <loc>https://buta7.netlify.app/artists/</loc>
+    <lastmod>2020-08-25T13:32:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/artists/</loc>
+    <loc>https://buta7.netlify.app/categories/</loc>
+    <lastmod>2020-08-25T13:32:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/levon-helm/</loc>
+    <lastmod>2020-08-25T13:32:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2020/08/levon-helmrco-all-satars/</loc>
+    <lastmod>2020-08-25T13:32:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/categories/rock/</loc>
+    <lastmod>2020-08-25T13:32:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/</loc>
+    <lastmod>2020-08-25T13:32:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/</loc>
+    <lastmod>2020-08-25T13:32:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/10cc/</loc>
     <lastmod>2020-08-21T13:42:37+09:00</lastmod>
   </url>
   
@@ -18,22 +48,7 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/</loc>
-    <lastmod>2020-08-21T13:42:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/</loc>
-    <lastmod>2020-08-21T13:42:37+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2020/08/best-of-dennis-brown/</loc>
-    <lastmod>2020-08-19T09:17:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/categories/</loc>
     <lastmod>2020-08-19T09:17:36+09:00</lastmod>
   </url>
   
@@ -99,11 +114,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/artists/joe-satriani/</loc>
-    <lastmod>2020-07-17T12:47:25+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/categories/rock/</loc>
     <lastmod>2020-07-17T12:47:25+09:00</lastmod>
   </url>
   
