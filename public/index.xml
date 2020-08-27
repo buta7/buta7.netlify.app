@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@buta7.com</copyright>
-    <lastBuildDate>Tue, 25 Aug 2020 13:32:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 07:59:06 +0900</lastBuildDate>
     
 	<atom:link href="https://buta7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mcguinn, Clark &amp; Hillman</title>
+      <link>https://buta7.netlify.app/posts/2020/08/mcguinn-clark-hilman/</link>
+      <pubDate>Fri, 28 Aug 2020 07:59:06 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/posts/2020/08/mcguinn-clark-hilman/</guid>
+      <description>&lt;p&gt;Byrdsの古参メンバーが同窓会をする話&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Levon Helm % the RCO All Stars</title>
