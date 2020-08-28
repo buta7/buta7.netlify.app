@@ -16,5 +16,7 @@ link: https://www.amazon.co.jp/dp/B00065GI4Q/
 ---
 C&Wと分類されるかもしれないけどホワイトブルースを支えてきた渋いおっさんどものアルバム
 <!--more-->
+New Orleans風というかフェス風な曲調もいくつかある。(参加しているのか
+
 やっぱしょっぱなの名曲"Smack Dab In The Middle"につきるな。これでしびれる。
 
