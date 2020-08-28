@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://buta7.netlify.app/artists/amos-garrett/</loc>
-    <lastmod>2020-08-28T08:47:15+09:00</lastmod>
+    <loc>https://buta7.netlify.app/artists/</loc>
+    <lastmod>2020-08-28T09:25:15+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/artists/</loc>
+    <loc>https://buta7.netlify.app/tags/pops/</loc>
+    <lastmod>2020-08-28T09:25:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/roger-nichols/</loc>
+    <lastmod>2020-08-28T09:25:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/tags/</loc>
+    <lastmod>2020-08-28T09:25:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2020/08/treasury/</loc>
+    <lastmod>2020-08-28T09:25:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/</loc>
+    <lastmod>2020-08-28T09:25:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/</loc>
+    <lastmod>2020-08-28T09:25:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/amos-garrett/</loc>
     <lastmod>2020-08-28T08:47:15+09:00</lastmod>
   </url>
   
@@ -43,16 +73,6 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/posts/</loc>
-    <lastmod>2020-08-28T08:47:15+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/</loc>
-    <lastmod>2020-08-28T08:47:15+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/tags/byrds/</loc>
     <lastmod>2020-08-28T07:59:06+09:00</lastmod>
   </url>
@@ -79,11 +99,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/artists/roger-mcguinn/</loc>
-    <lastmod>2020-08-28T07:59:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/</loc>
     <lastmod>2020-08-28T07:59:06+09:00</lastmod>
   </url>
   
