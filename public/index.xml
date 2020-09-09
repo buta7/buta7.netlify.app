@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@buta7.com</copyright>
-    <lastBuildDate>Wed, 09 Sep 2020 07:56:53 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 15:17:27 +0900</lastBuildDate>
     
 	<atom:link href="https://buta7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>for-the-stars</title>
+      <title>Las Coronelas</title>
+      <link>https://buta7.netlify.app/posts/2020/09/las-coronelas/</link>
+      <pubDate>Wed, 09 Sep 2020 15:17:27 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/posts/2020/09/las-coronelas/</guid>
+      <description>&lt;p&gt;Tex Mexの雄 Steve Jordanのてんこ盛りセット&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>For the Stars</title>
       <link>https://buta7.netlify.app/posts/2020/09/for-the-stars/</link>
       <pubDate>Wed, 09 Sep 2020 07:56:53 +0900</pubDate>
       

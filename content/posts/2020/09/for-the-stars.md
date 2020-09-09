@@ -1,5 +1,5 @@
 ---
-title: "for-the-stars"
+title: "For the Stars"
 slug: "for-the-stars"
 date: "2020-09-09T07:56:53+09:00"
 draft: false
