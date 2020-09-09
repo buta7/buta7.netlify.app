@@ -1,5 +1,5 @@
 ---
-title: "Best-Rest-Dennis-Brown"
+title: "Best Rest Dennis Brown"
 slug: "best-of-dennis-brown"
 date: "2020-08-19T09:17:36+09:00"
 draft: false

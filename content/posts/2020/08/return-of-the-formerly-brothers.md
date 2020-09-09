@@ -1,5 +1,5 @@
 ---
-title: "return-of-the-formerly-brothers"
+title: "Return of the Formerly Brothers"
 slug: "return-of-the-formerly-brothers"
 date: "2020-08-28T08:47:15+09:00"
 draft: false
