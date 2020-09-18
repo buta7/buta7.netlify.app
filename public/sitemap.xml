@@ -3,13 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://buta7.netlify.app/artists/art-pepper/</loc>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://buta7.netlify.app/artists/</loc>
-    <lastmod>2020-09-09T15:17:27+09:00</lastmod>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/tags/big-band/</loc>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://buta7.netlify.app/categories/</loc>
-    <lastmod>2020-09-09T15:17:27+09:00</lastmod>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2020/09/i-get-a-boot-out-of-you/</loc>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/categories/jazz/</loc>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/marty-paich/</loc>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/tags/</loc>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/</loc>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/</loc>
+    <lastmod>2020-09-18T13:13:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2020/09/broadway-bit/</loc>
+    <lastmod>2020-09-18T13:05:42+09:00</lastmod>
   </url>
   
   <url>
@@ -24,16 +69,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/categories/tex-mex/</loc>
-    <lastmod>2020-09-09T15:17:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/posts/</loc>
-    <lastmod>2020-09-09T15:17:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/</loc>
     <lastmod>2020-09-09T15:17:27+09:00</lastmod>
   </url>
   
@@ -59,11 +94,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/categories/pops/</loc>
-    <lastmod>2020-09-09T07:56:53+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/</loc>
     <lastmod>2020-09-09T07:56:53+09:00</lastmod>
   </url>
   
@@ -238,17 +268,7 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/tags/big-band/</loc>
-    <lastmod>2020-07-17T10:42:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/artists/buddy-rich/</loc>
-    <lastmod>2020-07-17T10:42:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/categories/jazz/</loc>
     <lastmod>2020-07-17T10:42:56+09:00</lastmod>
   </url>
   
@@ -830,11 +850,6 @@
   <url>
     <loc>https://buta7.netlify.app/artists/erroll-garner/</loc>
     <lastmod>2008-07-24T00:59:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/artists/art-pepper/</loc>
-    <lastmod>2008-07-15T22:48:35+09:00</lastmod>
   </url>
   
   <url>
