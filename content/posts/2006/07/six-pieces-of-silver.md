@@ -9,8 +9,8 @@ tags:
   - piano
 artists:
   - Horace Silver
-image: https://m.media-amazon.com/images/I/81AyAROqAGL._AC_UL320_.jpg
-link: https://www.amazon.co.jp/dp/B00JGWKNYQ/
+image: https://m.media-amazon.com/images/I/714eyOnYscL._AC_UL320_.jpg
+link: https://www.amazon.co.jp/dp/B000PDZPMA/
 ---
 音楽センス抜群のシルバーだがジャケットはいまいちなのが多い。
 <!--more-->
