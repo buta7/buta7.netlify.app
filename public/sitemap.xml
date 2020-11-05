@@ -4,12 +4,47 @@
   
   <url>
     <loc>https://buta7.netlify.app/artists/</loc>
-    <lastmod>2020-09-09T15:17:27+09:00</lastmod>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://buta7.netlify.app/categories/</loc>
-    <lastmod>2020-09-09T15:17:27+09:00</lastmod>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/categories/jazz/</loc>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/artists/michel-petrucciani/</loc>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/2020/11/michel-plays-petrucciani/</loc>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/tags/piano/</loc>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/tags/</loc>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/posts/</loc>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://buta7.netlify.app/</loc>
+    <lastmod>2020-11-04T13:15:03+09:00</lastmod>
   </url>
   
   <url>
@@ -24,16 +59,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/categories/tex-mex/</loc>
-    <lastmod>2020-09-09T15:17:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/posts/</loc>
-    <lastmod>2020-09-09T15:17:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/</loc>
     <lastmod>2020-09-09T15:17:27+09:00</lastmod>
   </url>
   
@@ -59,11 +84,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/categories/pops/</loc>
-    <lastmod>2020-09-09T07:56:53+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/</loc>
     <lastmod>2020-09-09T07:56:53+09:00</lastmod>
   </url>
   
@@ -248,11 +268,6 @@
   </url>
   
   <url>
-    <loc>https://buta7.netlify.app/categories/jazz/</loc>
-    <lastmod>2020-07-17T10:42:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://buta7.netlify.app/posts/2020/07/roar-of-74/</loc>
     <lastmod>2020-07-17T10:42:56+09:00</lastmod>
   </url>
@@ -379,11 +394,6 @@
   
   <url>
     <loc>https://buta7.netlify.app/posts/2009/05/king-size/</loc>
-    <lastmod>2009-05-22T23:26:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://buta7.netlify.app/tags/piano/</loc>
     <lastmod>2009-05-22T23:26:21+09:00</lastmod>
   </url>
   
