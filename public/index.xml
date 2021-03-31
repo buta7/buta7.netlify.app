@@ -7,18 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@buta7.com</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Wed, 04 Nov 2020 13:15:03 +0900</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 18 Sep 2020 13:13:50 +0900</lastBuildDate>
+>>>>>>> 5fa2715d67b59a9c5e91b123d991e83e70306ef9
     
 	<atom:link href="https://buta7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Michel Plays Petrucciani</title>
       <link>https://buta7.netlify.app/posts/2020/11/michel-plays-petrucciani/</link>
       <pubDate>Wed, 04 Nov 2020 13:15:03 +0900</pubDate>
       
       <guid>https://buta7.netlify.app/posts/2020/11/michel-plays-petrucciani/</guid>
       <description>&lt;p&gt;うーんすばらしい&lt;/p&gt;</description>
+=======
+      <title>I Get A Boot Out Of You</title>
+      <link>https://buta7.netlify.app/posts/2020/09/i-get-a-boot-out-of-you/</link>
+      <pubDate>Fri, 18 Sep 2020 13:13:50 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/posts/2020/09/i-get-a-boot-out-of-you/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://buta7.netlify.app/posts/2020/09/broadway-bit/&#34;&gt;踊り子&lt;/a&gt;と並ぶ作品。こっちは「お風呂」ね。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Broadway Bit</title>
+      <link>https://buta7.netlify.app/posts/2020/09/broadway-bit/</link>
+      <pubDate>Fri, 18 Sep 2020 13:05:42 +0900</pubDate>
+      
+      <guid>https://buta7.netlify.app/posts/2020/09/broadway-bit/</guid>
+      <description>&lt;p&gt;Marty Paichの代表作。&lt;/p&gt;
+&lt;p&gt;通称「踊り子」&lt;/p&gt;</description>
+>>>>>>> 5fa2715d67b59a9c5e91b123d991e83e70306ef9
     </item>
     
     <item>
