@@ -10,7 +10,8 @@ copyright = "@buta7.com"
 
 paginate = 12
 
-googleAnalytics = "UA-171511257-1"
+# googleAnalytics = "UA-171511257-1"
+googleAnalytics = "391524892"
 disqusShortname = "buta7-netlify-app"
 # enableRobotsTXT = true
 
